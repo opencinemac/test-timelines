@@ -170,7 +170,7 @@ def write_out(xml_path: pathlib.Path, info: SequenceInfo) -> None:
     print(f"WRITING JSON TO: '{out_file}'")
 
     with out_file.open('w') as f:
-        json.dump(dataclasses.asdict(info), f)
+        json.dump(dataclasses.asdict(info), f, indent=4)
 
 
 def collect_event_info(

@@ -20,3 +20,29 @@ events: 215
 This timeline contains 215 events with no respeeds, transitions or other effects and no 
 black space. It is primarily meant as a way to generate tabl`e tests for timecode 
 libraries.
+
+**'Many Basic Edits.json'** is a semi-parsed version combining information from the .edl
+and .xml for deriving table-tests for timecode libraries. Timecode string values are
+pulled from the EDL and lined up with frame representation and time base info pulled
+from the FPC7XML.
+
+# Scripts
+
+The ``'./Scripts'`` directory contains a number of scripts for pulling information from
+these scripts.
+
+## generate_tc_table_tests.py
+
+Can generate a json file to power timecode table-tests by combining information from
+an FCP7XML and EDL of the same sequence.
+
+Sequences must contain only 1 video track, and should not have respeed effects or 
+transitions.
+
+usage: 
+
+```shell
+python3 generate_tc_table_tests.py [xml_list_path] [edl_list_path]
+```
+
+Outputs: json of the same name as the xml in the same directory.
