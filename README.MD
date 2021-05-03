@@ -33,10 +33,10 @@ these scripts.
 
 ## generate_tc_table_tests.py
 
-Can generate a json file to power timecode table-tests by combining information from
-an FCP7XML and EDL of the same sequence.
+Generates a json file to power timecode table-tests by combining information from an 
+FCP7XML and CMX3600 EDL of the same sequence.
 
-Sequences must contain only 1 video track, and should not have respeed effects or 
+Sequences must contain only 1 video track, and should not have respeeds, effects, or 
 transitions.
 
 usage: 
