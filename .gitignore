@@ -19,6 +19,7 @@ zdevelop/tests/_reports/
 zdevelop/tests/htmlcov/
 zdevelop/scratch/*
 *.prlock
+Adobe Premiere Pro Auto-Save/
 
 # venvs
 .venv/
