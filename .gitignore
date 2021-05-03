@@ -18,6 +18,7 @@ develop-eggs/
 zdevelop/tests/_reports/
 zdevelop/tests/htmlcov/
 zdevelop/scratch/*
+*.prlock
 
 # venvs
 .venv/
