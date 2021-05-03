@@ -13,5 +13,5 @@ duration: 00:13:35:00
 events: 215
 
 This timeline contains 215 events with no respeeds, transitions or other effects and no 
-black space. It is primarily meant as a way to generate tabe tests for timecode 
+black space. It is primarily meant as a way to generate table tests for timecode 
 libraries.
