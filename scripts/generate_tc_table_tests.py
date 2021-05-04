@@ -7,7 +7,7 @@ import re
 import sys
 import xml.etree.ElementTree as et
 
-from typing import Dict, Union, List
+from typing import Dict, List
 
 
 @dataclasses.dataclass
@@ -19,9 +19,20 @@ class TimebaseInfo:
 
     @classmethod
     def from_element(cls, elm: et.Element) -> "TimebaseInfo":
-        timebase = int(elm.find("./rate/timebase").text)
-        ntsc = elm.find("./rate/ntsc").text == "TRUE"
-        drop_frame = elm.find('./displayformat').text == "DF"
+        timebase_elm = elm.find("./rate/timebase")
+        assert timebase_elm is not None
+        assert timebase_elm.text is not None
+        timebase = int(timebase_elm.text)
+
+        ntsc_elm = elm.find("./rate/ntsc")
+        assert ntsc_elm is not None
+        assert ntsc_elm.text is not None
+        ntsc = ntsc_elm.text == "TRUE"
+
+        drop_frame_elm = elm.find("./displayformat")
+        assert drop_frame_elm is not None
+        assert drop_frame_elm.text is not None
+        drop_frame = drop_frame_elm.text == "DF"
 
         if ntsc:
             frame_rate = fractions.Fraction(timebase * 1000, 1001)
@@ -35,6 +46,7 @@ class TimebaseInfo:
             framerate=frame_rate,
         )
 
+
 @dataclasses.dataclass
 class _TimecodeElementInfo:
     base: TimebaseInfo
@@ -44,13 +56,16 @@ class _TimecodeElementInfo:
 
     @classmethod
     def from_element(cls, elm: et.Element) -> "_TimecodeElementInfo":
+        timecode_text = elm.findtext("./string")
+        assert timecode_text is not None
 
-        timecode = elm.find('./string').text
-        frame = int(elm.find('./frame').text)
+        frame_text = elm.findtext("./frame")
+        assert frame_text is not None
+        frame = int(frame_text)
 
         return cls(
             base=TimebaseInfo.from_element(elm),
-            timecode=timecode,
+            timecode=timecode_text,
             frame=frame,
         )
 
@@ -75,12 +90,14 @@ class TimecodeInfo:
 
     @classmethod
     def from_info(
-        cls, timecode: str, frames: int, timebase: TimebaseInfo,
+        cls,
+        timecode: str,
+        frames: int,
+        timebase: TimebaseInfo,
     ) -> "TimecodeInfo":
         seconds_rational = frames / timebase.framerate
-        seconds_decimal = (
-            decimal.Decimal(seconds_rational.numerator) /
-            decimal.Decimal(seconds_rational.denominator)
+        seconds_decimal = decimal.Decimal(seconds_rational.numerator) / decimal.Decimal(
+            seconds_rational.denominator
         )
 
         seconds = round(seconds_decimal, 9)
@@ -103,7 +120,6 @@ class TimecodeInfo:
             ntsc=timebase.ntsc,
             drop_frame=timebase.drop_frame,
             frame_rate_frac=str(timebase.framerate),
-
             timecode=timecode,
             frame=frames,
             seconds_rational=str(seconds_rational),
@@ -133,16 +149,18 @@ class SequenceInfo:
 
 
 def parse_sequence_info(root: et.ElementTree) -> SequenceInfo:
-    total_duration_frames = int(root.find("./sequence/duration").text)
-    print("TOTAL DURATION:", total_duration_frames)
+    total_duration_frames_text = root.findtext("./sequence/duration")
+    assert total_duration_frames_text is not None
+    print("TOTAL DURATION:", total_duration_frames_text)
 
     start_time_elm = root.find("./sequence/timecode")
+    assert start_time_elm is not None
     start_time_info = TimecodeInfo.from_element(start_time_elm)
 
     seq_info = SequenceInfo(
         start_time=start_time_info,
-        total_duration_frames=total_duration_frames,
-        events=list()
+        total_duration_frames=int(total_duration_frames_text),
+        events=list(),
     )
 
     return seq_info
@@ -157,7 +175,7 @@ event_regex = re.compile(
 
 
 def event_list_from_edl(edl_path: pathlib.Path) -> List[re.Match]:
-    with edl_path.open('r') as f:
+    with edl_path.open("r") as f:
         return [x for x in event_regex.finditer(f.read())]
 
 
@@ -169,32 +187,37 @@ def write_out(xml_path: pathlib.Path, info: SequenceInfo) -> None:
 
     print(f"WRITING JSON TO: '{out_file}'")
 
-    with out_file.open('w') as f:
+    with out_file.open("w") as f:
         json.dump(dataclasses.asdict(info), f, indent=4)
 
 
 def collect_event_info(
-    edl_events: List[re.Match], xml_events: List[et.Element],
+    edl_events: List[re.Match],
+    xml_events: List[et.Element],
 ) -> List[EventInfo]:
     event_bases: Dict[str, TimebaseInfo] = dict()
     events: List[EventInfo] = list()
 
     for edl_event, xml_event in zip(edl_events, xml_events):
         file_elm = xml_event.find("./file")
+        assert file_elm is not None
+
         file_id = file_elm.attrib["id"]
 
         try:
             base_info = event_bases[file_id]
         except KeyError:
-            base_info = TimebaseInfo.from_element(xml_event.find("./file/timecode"))
+            base_elm = xml_event.find("./file/timecode")
+            assert base_elm is not None
+            base_info = TimebaseInfo.from_element(base_elm)
             event_bases[file_id] = base_info
 
-        duration = int(xml_event.find("duration").text)
+        duration = _find_int(xml_event, "duration")
 
-        source_in_frames = int(xml_event.find("in").text)
-        source_out_frames = int(xml_event.find("out").text)
-        record_in_frames = int(xml_event.find("start").text)
-        record_out_frames = int(xml_event.find("end").text)
+        source_in_frames = _find_int(xml_event, "in")
+        source_out_frames = _find_int(xml_event, "out")
+        record_in_frames = _find_int(xml_event, "start")
+        record_out_frames = _find_int(xml_event, "end")
 
         source_in_tc = edl_event.group("source_in")
         source_out_tc = edl_event.group("source_out")
@@ -205,17 +228,27 @@ def collect_event_info(
             duration_frames=duration,
             source_in=TimecodeInfo.from_info(source_in_tc, source_in_frames, base_info),
             source_out=TimecodeInfo.from_info(
-                source_out_tc, source_out_frames, base_info,
+                source_out_tc,
+                source_out_frames,
+                base_info,
             ),
             record_in=TimecodeInfo.from_info(record_in_tc, record_in_frames, base_info),
             record_out=TimecodeInfo.from_info(
-                record_out_tc, record_out_frames, base_info,
+                record_out_tc,
+                record_out_frames,
+                base_info,
             ),
         )
 
         events.append(event_info)
 
     return events
+
+
+def _find_int(elm: et.Element, path: str) -> int:
+    int_text = elm.findtext(path)
+    assert int_text is not None
+    return int(int_text)
 
 
 def main() -> None:
@@ -240,5 +273,5 @@ def main() -> None:
     write_out(source_xml, info)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
