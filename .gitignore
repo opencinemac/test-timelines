@@ -20,6 +20,7 @@ zdevelop/tests/htmlcov/
 zdevelop/scratch/*
 *.prlock
 Adobe Premiere Pro Auto-Save/
+FCP Translation Results*
 
 # venvs
 .venv/
