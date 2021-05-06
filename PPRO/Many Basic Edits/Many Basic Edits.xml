@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xmeml>
 <xmeml version="4">
-	<sequence id="sequence-2" TL.SQAudioVisibleBase="0" TL.SQVideoVisibleBase="0" TL.SQVisibleBaseTime="0" TL.SQAVDividerPosition="0.860248446465" TL.SQHideShyTracks="0" TL.SQHeaderWidth="236" Monitor.ProgramZoomOut="207230063040000" Monitor.ProgramZoomIn="0" TL.SQTimePerPixel="1.4236444444444443" MZ.EditLine="0" MZ.Sequence.PreviewFrameSizeHeight="1080" MZ.Sequence.PreviewFrameSizeWidth="1920" MZ.Sequence.AudioTimeDisplayFormat="200" MZ.Sequence.PreviewRenderingClassID="1061109567" MZ.Sequence.PreviewRenderingPresetCodec="1634755443" MZ.Sequence.PreviewRenderingPresetPath="EncoderPresets/SequencePreview/795454d9-d3c2-429d-9474-923ab13b7018/QuickTime.epr" MZ.Sequence.PreviewUseMaxRenderQuality="false" MZ.Sequence.PreviewUseMaxBitDepth="false" MZ.Sequence.EditingModeGUID="795454d9-d3c2-429d-9474-923ab13b7018" MZ.Sequence.VideoTimeDisplayFormat="110" MZ.WorkOutPoint="267629786424000" MZ.WorkInPoint="152233577496000" MZ.ZeroPoint="915372057600000" explodedTracks="true">
+	<sequence id="sequence-1" TL.SQAudioVisibleBase="0" TL.SQVideoVisibleBase="0" TL.SQVisibleBaseTime="90965098224000" TL.SQAVDividerPosition="0.860248446465" TL.SQHideShyTracks="0" TL.SQHeaderWidth="236" Monitor.ProgramZoomOut="207230063040000" Monitor.ProgramZoomIn="0" TL.SQTimePerPixel="0.0027805555555555439" MZ.EditLine="91208773656000" MZ.Sequence.PreviewFrameSizeHeight="1080" MZ.Sequence.PreviewFrameSizeWidth="1920" MZ.Sequence.AudioTimeDisplayFormat="200" MZ.Sequence.PreviewRenderingClassID="1061109567" MZ.Sequence.PreviewRenderingPresetCodec="1634755443" MZ.Sequence.PreviewRenderingPresetPath="EncoderPresets/SequencePreview/795454d9-d3c2-429d-9474-923ab13b7018/QuickTime.epr" MZ.Sequence.PreviewUseMaxRenderQuality="false" MZ.Sequence.PreviewUseMaxBitDepth="false" MZ.Sequence.EditingModeGUID="795454d9-d3c2-429d-9474-923ab13b7018" MZ.Sequence.VideoTimeDisplayFormat="110" MZ.WorkOutPoint="267629786424000" MZ.WorkInPoint="152233577496000" MZ.ZeroPoint="915372057600000" explodedTracks="true">
 		<uuid>eb5818e0-0d0d-480b-879a-087bae8c1558</uuid>
 		<duration>19560</duration>
 		<rate>
@@ -46,8 +46,8 @@
 					</samplecharacteristics>
 				</format>
 				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="92" TL.SQTrackExpanded="0" MZ.TrackTargeted="1">
-					<clipitem id="clipitem-221">
-						<masterclipid>masterclip-77</masterclipid>
+					<clipitem id="clipitem-1">
+						<masterclipid>masterclip-1</masterclipid>
 						<name>001_07_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1888</duration>
@@ -64,7 +64,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-77">
+						<file id="file-1">
 							<name>A008C008_19010816.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_002/TLJ_8/A008CBLB/Clip/A008C008_19010816/A008C008_19010816.mov</pathurl>
 							<rate>
@@ -470,8 +470,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-222">
-						<masterclipid>masterclip-78</masterclipid>
+					<clipitem id="clipitem-2">
+						<masterclipid>masterclip-2</masterclipid>
 						<name>001C_04_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1524</duration>
@@ -488,7 +488,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-78">
+						<file id="file-2">
 							<name>A008C024_1901088Q.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_002/TLJ_8/A008CBLB/Clip/A008C024_1901088Q/A008C024_1901088Q.mov</pathurl>
 							<rate>
@@ -895,8 +895,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-223">
-						<masterclipid>masterclip-79</masterclipid>
+					<clipitem id="clipitem-3">
+						<masterclipid>masterclip-3</masterclipid>
 						<name>001B_05_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1364</duration>
@@ -913,7 +913,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-79">
+						<file id="file-3">
 							<name>A008C020_190108UE.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_002/TLJ_8/A008CBLB/Clip/A008C020_190108UE/A008C020_190108UE.mov</pathurl>
 							<rate>
@@ -1326,8 +1326,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-224">
-						<masterclipid>masterclip-80</masterclipid>
+					<clipitem id="clipitem-4">
+						<masterclipid>masterclip-4</masterclipid>
 						<name>001C_05_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1412</duration>
@@ -1344,7 +1344,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-80">
+						<file id="file-4">
 							<name>A008C025_190108YJ.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_002/TLJ_8/A008CBLB/Clip/A008C025_190108YJ/A008C025_190108YJ.mov</pathurl>
 							<rate>
@@ -1748,8 +1748,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-225">
-						<masterclipid>masterclip-79</masterclipid>
+					<clipitem id="clipitem-5">
+						<masterclipid>masterclip-3</masterclipid>
 						<name>001B_05_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1364</duration>
@@ -1764,7 +1764,7 @@
 						<pproTicksIn>5699886192000</pproTicksIn>
 						<pproTicksOut>6473290824000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-79"/>
+						<file id="file-3"/>
 							<marker>
 								<comment>Comment</comment>
 								<name>Name</name>
@@ -1791,8 +1791,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-226">
-						<masterclipid>masterclip-81</masterclipid>
+					<clipitem id="clipitem-6">
+						<masterclipid>masterclip-5</masterclipid>
 						<name>001A_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1172</duration>
@@ -1809,7 +1809,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-81">
+						<file id="file-5">
 							<name>A008C015_19010896.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_002/TLJ_8/A008CBLB/Clip/A008C015_19010896/A008C015_19010896.mov</pathurl>
 							<rate>
@@ -2213,8 +2213,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-227">
-						<masterclipid>masterclip-79</masterclipid>
+					<clipitem id="clipitem-7">
+						<masterclipid>masterclip-3</masterclipid>
 						<name>001B_05_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1364</duration>
@@ -2229,7 +2229,7 @@
 						<pproTicksIn>8221397184000</pproTicksIn>
 						<pproTicksOut>9619882272000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-79"/>
+						<file id="file-3"/>
 							<marker>
 								<comment>Comment</comment>
 								<name>Name</name>
@@ -2256,8 +2256,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-228">
-						<masterclipid>masterclip-78</masterclipid>
+					<clipitem id="clipitem-8">
+						<masterclipid>masterclip-2</masterclipid>
 						<name>001C_04_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1524</duration>
@@ -2272,7 +2272,7 @@
 						<pproTicksIn>11918907000000</pproTicksIn>
 						<pproTicksOut>13285608336000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-78"/>
+						<file id="file-2"/>
 						<logginginfo>
 							<description>OTS Car to 3/4 MS Brains - Brains enters car - Outside</description>
 							<scene></scene>
@@ -2293,8 +2293,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-229">
-						<masterclipid>masterclip-82</masterclipid>
+					<clipitem id="clipitem-9">
+						<masterclipid>masterclip-6</masterclipid>
 						<name>001B_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1428</duration>
@@ -2311,7 +2311,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-82">
+						<file id="file-6">
 							<name>A008C017_190108IP.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_002/TLJ_8/A008CBLB/Clip/A008C017_190108IP/A008C017_190108IP.mov</pathurl>
 							<rate>
@@ -2718,8 +2718,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-230">
-						<masterclipid>masterclip-81</masterclipid>
+					<clipitem id="clipitem-10">
+						<masterclipid>masterclip-5</masterclipid>
 						<name>001A_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1172</duration>
@@ -2734,7 +2734,7 @@
 						<pproTicksIn>9852963120000</pproTicksIn>
 						<pproTicksOut>10520421912000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-81"/>
+						<file id="file-5"/>
 						<logginginfo>
 							<description>MWS Brains enters car</description>
 							<scene></scene>
@@ -2755,8 +2755,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-231">
-						<masterclipid>masterclip-83</masterclipid>
+					<clipitem id="clipitem-11">
+						<masterclipid>masterclip-7</masterclipid>
 						<name>001_11_A</name>
 						<enabled>TRUE</enabled>
 						<duration>2120</duration>
@@ -2773,7 +2773,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-83">
+						<file id="file-7">
 							<name>A008C012_190108NM.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_002/TLJ_8/A008CBLB/Clip/A008C012_190108NM/A008C012_190108NM.mov</pathurl>
 							<rate>
@@ -3177,8 +3177,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-232">
-						<masterclipid>masterclip-84</masterclipid>
+					<clipitem id="clipitem-12">
+						<masterclipid>masterclip-8</masterclipid>
 						<name>002C_04_A</name>
 						<enabled>TRUE</enabled>
 						<duration>2632</duration>
@@ -3195,7 +3195,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-84">
+						<file id="file-8">
 							<name>A009C009_190108RE.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_002/TLJ_9/A009C4A2/Clip/A009C009_190108RE/A009C009_190108RE.mov</pathurl>
 							<rate>
@@ -3609,8 +3609,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-233">
-						<masterclipid>masterclip-85</masterclipid>
+					<clipitem id="clipitem-13">
+						<masterclipid>masterclip-9</masterclipid>
 						<name>002D_04_A</name>
 						<enabled>TRUE</enabled>
 						<duration>2644</duration>
@@ -3627,7 +3627,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-85">
+						<file id="file-9">
 							<name>A009C013_190108DH.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_002/TLJ_9/A009C4A2/Clip/A009C013_190108DH/A009C013_190108DH.mov</pathurl>
 							<rate>
@@ -4051,8 +4051,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-234">
-						<masterclipid>masterclip-86</masterclipid>
+					<clipitem id="clipitem-14">
+						<masterclipid>masterclip-10</masterclipid>
 						<name>002A_05_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1528</duration>
@@ -4069,7 +4069,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-86">
+						<file id="file-10">
 							<name>A008C033_190108NO.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_002/TLJ_8/A008CBLB/Clip/A008C033_190108NO/A008C033_190108NO.mov</pathurl>
 							<rate>
@@ -4483,8 +4483,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-235">
-						<masterclipid>masterclip-87</masterclipid>
+					<clipitem id="clipitem-15">
+						<masterclipid>masterclip-11</masterclipid>
 						<name>002C_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>2868</duration>
@@ -4501,7 +4501,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-87">
+						<file id="file-11">
 							<name>A009C008_190108SA.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_002/TLJ_9/A009C4A2/Clip/A009C008_190108SA/A009C008_190108SA.mov</pathurl>
 							<rate>
@@ -4915,8 +4915,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-236">
-						<masterclipid>masterclip-86</masterclipid>
+					<clipitem id="clipitem-16">
+						<masterclipid>masterclip-10</masterclipid>
 						<name>002A_05_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1528</duration>
@@ -4931,7 +4931,7 @@
 						<pproTicksIn>11442150720000</pproTicksIn>
 						<pproTicksOut>11844744912000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-86"/>
+						<file id="file-10"/>
 						<logginginfo>
 							<description>MS Convict - OTS Driver/Brains - Outside</description>
 							<scene></scene>
@@ -4952,8 +4952,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-237">
-						<masterclipid>masterclip-87</masterclipid>
+					<clipitem id="clipitem-17">
+						<masterclipid>masterclip-11</masterclipid>
 						<name>002C_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>2868</duration>
@@ -4968,7 +4968,7 @@
 						<pproTicksIn>15923659752000</pproTicksIn>
 						<pproTicksOut>16389821448000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-87"/>
+						<file id="file-11"/>
 						<logginginfo>
 							<description>WS Convict - Enters car - Outside</description>
 							<scene></scene>
@@ -4989,8 +4989,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-238">
-						<masterclipid>masterclip-86</masterclipid>
+					<clipitem id="clipitem-18">
+						<masterclipid>masterclip-10</masterclipid>
 						<name>002A_05_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1528</duration>
@@ -5005,7 +5005,7 @@
 						<pproTicksIn>11918907000000</pproTicksIn>
 						<pproTicksOut>12226149936000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-86"/>
+						<file id="file-10"/>
 						<logginginfo>
 							<description>MS Convict - OTS Driver/Brains - Outside</description>
 							<scene></scene>
@@ -5026,8 +5026,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-239">
-						<masterclipid>masterclip-88</masterclipid>
+					<clipitem id="clipitem-19">
+						<masterclipid>masterclip-12</masterclipid>
 						<name>002B_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1032</duration>
@@ -5044,7 +5044,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-88">
+						<file id="file-12">
 							<name>A009C003_190108CH.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_002/TLJ_9/A009C4A2/Clip/A009C003_190108CH/A009C003_190108CH.mov</pathurl>
 							<rate>
@@ -5458,8 +5458,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-240">
-						<masterclipid>masterclip-86</masterclipid>
+					<clipitem id="clipitem-20">
+						<masterclipid>masterclip-10</masterclipid>
 						<name>002A_05_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1528</duration>
@@ -5474,7 +5474,7 @@
 						<pproTicksIn>12649933296000</pproTicksIn>
 						<pproTicksOut>13359770424000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-86"/>
+						<file id="file-10"/>
 						<logginginfo>
 							<description>MS Convict - OTS Driver/Brains - Outside</description>
 							<scene></scene>
@@ -5495,8 +5495,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-241">
-						<masterclipid>masterclip-89</masterclipid>
+					<clipitem id="clipitem-21">
+						<masterclipid>masterclip-13</masterclipid>
 						<name>002B_05_A</name>
 						<enabled>TRUE</enabled>
 						<duration>2032</duration>
@@ -5513,7 +5513,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-89">
+						<file id="file-13">
 							<name>A009C005_1901081F.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_002/TLJ_9/A009C4A2/Clip/A009C005_1901081F/A009C005_1901081F.mov</pathurl>
 							<rate>
@@ -5927,8 +5927,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-242">
-						<masterclipid>masterclip-90</masterclipid>
+					<clipitem id="clipitem-22">
+						<masterclipid>masterclip-14</masterclipid>
 						<name>002C_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>4068</duration>
@@ -5945,7 +5945,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-90">
+						<file id="file-14">
 							<name>A009C007_190108O0.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_002/TLJ_9/A009C4A2/Clip/A009C007_190108O0/A009C007_190108O0.mov</pathurl>
 							<rate>
@@ -6359,8 +6359,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-243">
-						<masterclipid>masterclip-90</masterclipid>
+					<clipitem id="clipitem-23">
+						<masterclipid>masterclip-14</masterclipid>
 						<name>002C_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>4068</duration>
@@ -6375,7 +6375,7 @@
 						<pproTicksIn>35555423904000</pproTicksIn>
 						<pproTicksOut>35830883088000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-90"/>
+						<file id="file-14"/>
 						<logginginfo>
 							<description>WS Convict - Enters car - Outside</description>
 							<scene></scene>
@@ -6396,8 +6396,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-244">
-						<masterclipid>masterclip-89</masterclipid>
+					<clipitem id="clipitem-24">
+						<masterclipid>masterclip-13</masterclipid>
 						<name>002B_05_A</name>
 						<enabled>TRUE</enabled>
 						<duration>2032</duration>
@@ -6412,7 +6412,7 @@
 						<pproTicksIn>8316748440000</pproTicksIn>
 						<pproTicksOut>8984207232000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-89"/>
+						<file id="file-13"/>
 						<logginginfo>
 							<description>OTS Convict on Driver/Brains - Outside</description>
 							<scene></scene>
@@ -6433,8 +6433,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-245">
-						<masterclipid>masterclip-87</masterclipid>
+					<clipitem id="clipitem-25">
+						<masterclipid>masterclip-11</masterclipid>
 						<name>002C_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>2868</duration>
@@ -6449,7 +6449,7 @@
 						<pproTicksIn>19547007480000</pproTicksIn>
 						<pproTicksOut>20034358344000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-87"/>
+						<file id="file-11"/>
 						<logginginfo>
 							<description>WS Convict - Enters car - Outside</description>
 							<scene></scene>
@@ -6470,8 +6470,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-246">
-						<masterclipid>masterclip-91</masterclipid>
+					<clipitem id="clipitem-26">
+						<masterclipid>masterclip-15</masterclipid>
 						<name>002D_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>4920</duration>
@@ -6488,7 +6488,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-91">
+						<file id="file-15">
 							<name>A009C012_190108Z7.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_002/TLJ_9/A009C4A2/Clip/A009C012_190108Z7/A009C012_190108Z7.mov</pathurl>
 							<rate>
@@ -6912,8 +6912,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-247">
-						<masterclipid>masterclip-92</masterclipid>
+					<clipitem id="clipitem-27">
+						<masterclipid>masterclip-16</masterclipid>
 						<name>003_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>2320</duration>
@@ -6930,7 +6930,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-92">
+						<file id="file-16">
 							<name>A005C022_190107ES.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_5/A005CLAO/Clip/A005C022_190107ES/A005C022_190107ES.mov</pathurl>
 							<rate>
@@ -7354,8 +7354,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-248">
-						<masterclipid>masterclip-93</masterclipid>
+					<clipitem id="clipitem-28">
+						<masterclipid>masterclip-17</masterclipid>
 						<name>003C_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>3096</duration>
@@ -7372,7 +7372,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-93">
+						<file id="file-17">
 							<name>A005C032_190107RU.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_5/A005CLAO/Clip/A005C032_190107RU/A005C032_190107RU.mov</pathurl>
 							<rate>
@@ -7796,8 +7796,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-249">
-						<masterclipid>masterclip-92</masterclipid>
+					<clipitem id="clipitem-29">
+						<masterclipid>masterclip-16</masterclipid>
 						<name>003_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>2320</duration>
@@ -7812,7 +7812,7 @@
 						<pproTicksIn>11675231568000</pproTicksIn>
 						<pproTicksOut>13550472936000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-92"/>
+						<file id="file-16"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Brains/Convict - Inside - Convict questions Dani</description>
 							<scene></scene>
@@ -7833,8 +7833,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-250">
-						<masterclipid>masterclip-94</masterclipid>
+					<clipitem id="clipitem-30">
+						<masterclipid>masterclip-18</masterclipid>
 						<name>003B_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1472</duration>
@@ -7851,7 +7851,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-94">
+						<file id="file-18">
 							<name>A005C029_190107RF.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_5/A005CLAO/Clip/A005C029_190107RF/A005C029_190107RF.mov</pathurl>
 							<rate>
@@ -8275,8 +8275,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-251">
-						<masterclipid>masterclip-95</masterclipid>
+					<clipitem id="clipitem-31">
+						<masterclipid>masterclip-19</masterclipid>
 						<name>003D_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>916</duration>
@@ -8293,7 +8293,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-95">
+						<file id="file-19">
 							<name>A005C035_1901074W.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_5/A005CLAO/Clip/A005C035_1901074W/A005C035_1901074W.mov</pathurl>
 							<rate>
@@ -8419,8 +8419,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-252">
-						<masterclipid>masterclip-93</masterclipid>
+					<clipitem id="clipitem-32">
+						<masterclipid>masterclip-17</masterclipid>
 						<name>003C_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>3096</duration>
@@ -8435,7 +8435,7 @@
 						<pproTicksIn>19928412504000</pproTicksIn>
 						<pproTicksOut>21295113840000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-93"/>
+						<file id="file-17"/>
 						<logginginfo>
 							<description>3/4 MS on Convict - Inside - Dani enters car</description>
 							<scene></scene>
@@ -8456,8 +8456,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-253">
-						<masterclipid>masterclip-96</masterclipid>
+					<clipitem id="clipitem-33">
+						<masterclipid>masterclip-20</masterclipid>
 						<name>003A_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1104</duration>
@@ -8474,7 +8474,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-96">
+						<file id="file-20">
 							<name>A005C026_1901075I.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_5/A005CLAO/Clip/A005C026_1901075I/A005C026_1901075I.mov</pathurl>
 							<rate>
@@ -8898,8 +8898,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-254">
-						<masterclipid>masterclip-93</masterclipid>
+					<clipitem id="clipitem-34">
+						<masterclipid>masterclip-17</masterclipid>
 						<name>003C_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>3096</duration>
@@ -8914,7 +8914,7 @@
 						<pproTicksIn>21623545944000</pproTicksIn>
 						<pproTicksOut>22375761408000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-93"/>
+						<file id="file-17"/>
 						<logginginfo>
 							<description>3/4 MS on Convict - Inside - Dani enters car</description>
 							<scene></scene>
@@ -8935,8 +8935,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-255">
-						<masterclipid>masterclip-97</masterclipid>
+					<clipitem id="clipitem-35">
+						<masterclipid>masterclip-21</masterclipid>
 						<name>003A_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1116</duration>
@@ -8953,7 +8953,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-97">
+						<file id="file-21">
 							<name>A005C025_190107VY.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_5/A005CLAO/Clip/A005C025_190107VY/A005C025_190107VY.mov</pathurl>
 							<rate>
@@ -9377,8 +9377,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-256">
-						<masterclipid>masterclip-98</masterclipid>
+					<clipitem id="clipitem-36">
+						<masterclipid>masterclip-22</masterclipid>
 						<name>003B_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>3376</duration>
@@ -9395,7 +9395,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-98">
+						<file id="file-22">
 							<name>A005C030_1901077X.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_5/A005CLAO/Clip/A005C030_1901077X/A005C030_1901077X.mov</pathurl>
 							<rate>
@@ -9819,8 +9819,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-257">
-						<masterclipid>masterclip-99</masterclipid>
+					<clipitem id="clipitem-37">
+						<masterclipid>masterclip-23</masterclipid>
 						<name>003A_04_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1192</duration>
@@ -9837,7 +9837,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-99">
+						<file id="file-23">
 							<name>A005C027_190107XJ.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_5/A005CLAO/Clip/A005C027_190107XJ/A005C027_190107XJ.mov</pathurl>
 							<rate>
@@ -10261,8 +10261,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-258">
-						<masterclipid>masterclip-92</masterclipid>
+					<clipitem id="clipitem-38">
+						<masterclipid>masterclip-16</masterclipid>
 						<name>003_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>2320</duration>
@@ -10277,7 +10277,7 @@
 						<pproTicksIn>18625278672000</pproTicksIn>
 						<pproTicksOut>18932521608000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-92"/>
+						<file id="file-16"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Brains/Convict - Inside - Convict questions Dani</description>
 							<scene></scene>
@@ -10298,8 +10298,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-259">
-						<masterclipid>masterclip-100</masterclipid>
+					<clipitem id="clipitem-39">
+						<masterclipid>masterclip-24</masterclipid>
 						<name>003C_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>4464</duration>
@@ -10316,7 +10316,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-100">
+						<file id="file-24">
 							<name>A005C031_190107Z4.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_5/A005CLAO/Clip/A005C031_190107Z4/A005C031_190107Z4.mov</pathurl>
 							<rate>
@@ -10740,8 +10740,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-260">
-						<masterclipid>masterclip-98</masterclipid>
+					<clipitem id="clipitem-40">
+						<masterclipid>masterclip-22</masterclipid>
 						<name>003B_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>3376</duration>
@@ -10756,7 +10756,7 @@
 						<pproTicksIn>7596316728000</pproTicksIn>
 						<pproTicksOut>8020100088000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-98"/>
+						<file id="file-22"/>
 						<logginginfo>
 							<description>CU on Brains, 3/4 on Driver - Inside - Dani enters car</description>
 							<scene></scene>
@@ -10777,8 +10777,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-261">
-						<masterclipid>masterclip-93</masterclipid>
+					<clipitem id="clipitem-41">
+						<masterclipid>masterclip-17</masterclipid>
 						<name>003C_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>3096</duration>
@@ -10793,7 +10793,7 @@
 						<pproTicksIn>24134462352000</pproTicksIn>
 						<pproTicksOut>24388732368000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-93"/>
+						<file id="file-17"/>
 						<logginginfo>
 							<description>3/4 MS on Convict - Inside - Dani enters car</description>
 							<scene></scene>
@@ -10814,8 +10814,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-262">
-						<masterclipid>masterclip-94</masterclipid>
+					<clipitem id="clipitem-42">
+						<masterclipid>masterclip-18</masterclipid>
 						<name>003B_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1472</duration>
@@ -10830,7 +10830,7 @@
 						<pproTicksIn>10117827720000</pproTicksIn>
 						<pproTicksOut>10711124424000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-94"/>
+						<file id="file-18"/>
 						<logginginfo>
 							<description>CU on Brains, 3/4 on Driver - Inside - Dani enters car</description>
 							<scene></scene>
@@ -10851,8 +10851,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-263">
-						<masterclipid>masterclip-99</masterclipid>
+					<clipitem id="clipitem-43">
+						<masterclipid>masterclip-23</masterclipid>
 						<name>003A_04_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1192</duration>
@@ -10867,7 +10867,7 @@
 						<pproTicksIn>7395019632000</pproTicksIn>
 						<pproTicksOut>7882370496000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-99"/>
+						<file id="file-23"/>
 						<logginginfo>
 							<description>OTS Dani on Convict - Inside</description>
 							<scene></scene>
@@ -10888,8 +10888,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-264">
-						<masterclipid>masterclip-100</masterclipid>
+					<clipitem id="clipitem-44">
+						<masterclipid>masterclip-24</masterclipid>
 						<name>003C_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>4464</duration>
@@ -10904,7 +10904,7 @@
 						<pproTicksIn>9376206840000</pproTicksIn>
 						<pproTicksOut>10001287296000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-100"/>
+						<file id="file-24"/>
 						<logginginfo>
 							<description>3/4 MS on Convict - Inside - Dani enters car</description>
 							<scene></scene>
@@ -10925,8 +10925,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-265">
-						<masterclipid>masterclip-94</masterclipid>
+					<clipitem id="clipitem-45">
+						<masterclipid>masterclip-18</masterclipid>
 						<name>003B_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1472</duration>
@@ -10941,7 +10941,7 @@
 						<pproTicksIn>11622258648000</pproTicksIn>
 						<pproTicksOut>12141393264000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-94"/>
+						<file id="file-18"/>
 						<logginginfo>
 							<description>CU on Brains, 3/4 on Driver - Inside - Dani enters car</description>
 							<scene></scene>
@@ -10962,8 +10962,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-266">
-						<masterclipid>masterclip-93</masterclipid>
+					<clipitem id="clipitem-46">
+						<masterclipid>masterclip-17</masterclipid>
 						<name>003C_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>3096</duration>
@@ -10978,7 +10978,7 @@
 						<pproTicksIn>10244962728000</pproTicksIn>
 						<pproTicksOut>10605178584000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-93"/>
+						<file id="file-17"/>
 						<logginginfo>
 							<description>3/4 MS on Convict - Inside - Dani enters car</description>
 							<scene></scene>
@@ -10999,8 +10999,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-267">
-						<masterclipid>masterclip-94</masterclipid>
+					<clipitem id="clipitem-47">
+						<masterclipid>masterclip-18</masterclipid>
 						<name>003B_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1472</duration>
@@ -11015,7 +11015,7 @@
 						<pproTicksIn>12480419952000</pproTicksIn>
 						<pproTicksOut>12946581648000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-94"/>
+						<file id="file-18"/>
 						<logginginfo>
 							<description>CU on Brains, 3/4 on Driver - Inside - Dani enters car</description>
 							<scene></scene>
@@ -11036,8 +11036,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-268">
-						<masterclipid>masterclip-93</masterclipid>
+					<clipitem id="clipitem-48">
+						<masterclipid>masterclip-17</masterclipid>
 						<name>003C_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>3096</duration>
@@ -11052,7 +11052,7 @@
 						<pproTicksIn>27365810472000</pproTicksIn>
 						<pproTicksOut>27778999248000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-93"/>
+						<file id="file-17"/>
 						<logginginfo>
 							<description>3/4 MS on Convict - Inside - Dani enters car</description>
 							<scene></scene>
@@ -11073,8 +11073,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-269">
-						<masterclipid>masterclip-94</masterclipid>
+					<clipitem id="clipitem-49">
+						<masterclipid>masterclip-18</masterclipid>
 						<name>003B_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1472</duration>
@@ -11089,7 +11089,7 @@
 						<pproTicksIn>13359770424000</pproTicksIn>
 						<pproTicksOut>13847121288000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-94"/>
+						<file id="file-18"/>
 						<logginginfo>
 							<description>CU on Brains, 3/4 on Driver - Inside - Dani enters car</description>
 							<scene></scene>
@@ -11110,8 +11110,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-270">
-						<masterclipid>masterclip-97</masterclipid>
+					<clipitem id="clipitem-50">
+						<masterclipid>masterclip-21</masterclipid>
 						<name>003A_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1116</duration>
@@ -11126,7 +11126,7 @@
 						<pproTicksIn>9672855192000</pproTicksIn>
 						<pproTicksOut>10096638552000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-97"/>
+						<file id="file-21"/>
 						<logginginfo>
 							<description>OTS Dani on Convict - Inside</description>
 							<scene></scene>
@@ -11147,8 +11147,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-271">
-						<masterclipid>masterclip-97</masterclipid>
+					<clipitem id="clipitem-51">
+						<masterclipid>masterclip-21</masterclipid>
 						<name>003A_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1116</duration>
@@ -11163,7 +11163,7 @@
 						<pproTicksIn>10107233136000</pproTicksIn>
 						<pproTicksOut>10372097736000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-97"/>
+						<file id="file-21"/>
 						<logginginfo>
 							<description>OTS Dani on Convict - Inside</description>
 							<scene></scene>
@@ -11184,8 +11184,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-272">
-						<masterclipid>masterclip-95</masterclipid>
+					<clipitem id="clipitem-52">
+						<masterclipid>masterclip-19</masterclipid>
 						<name>003D_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>916</duration>
@@ -11200,7 +11200,7 @@
 						<pproTicksIn>6579236664000</pproTicksIn>
 						<pproTicksOut>7596316728000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-95"/>
+						<file id="file-19"/>
 						<logginginfo>
 							<description>WS of Car - Outside - Dani enters car</description>
 							<scene></scene>
@@ -11221,8 +11221,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-273">
-						<masterclipid>masterclip-101</masterclipid>
+					<clipitem id="clipitem-53">
+						<masterclipid>masterclip-25</masterclipid>
 						<name>B006_06_A</name>
 						<enabled>TRUE</enabled>
 						<duration>828</duration>
@@ -11239,7 +11239,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-101">
+						<file id="file-25">
 							<name>A005C015_190107CO.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_5/A005CLAO/Clip/A005C015_190107CO/A005C015_190107CO.mov</pathurl>
 							<rate>
@@ -11644,8 +11644,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-274">
-						<masterclipid>masterclip-102</masterclipid>
+					<clipitem id="clipitem-54">
+						<masterclipid>masterclip-26</masterclipid>
 						<name>MNT_012_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1660</duration>
@@ -11662,7 +11662,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-102">
+						<file id="file-26">
 							<name>A011C016_1901094O.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_003/TLJ_11/A011CMFA/Clip/A011C016_1901094O/A011C016_1901094O.mov</pathurl>
 							<rate>
@@ -12056,8 +12056,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-275">
-						<masterclipid>masterclip-103</masterclipid>
+					<clipitem id="clipitem-55">
+						<masterclipid>masterclip-27</masterclipid>
 						<name>MNT_014_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1028</duration>
@@ -12074,7 +12074,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-103">
+						<file id="file-27">
 							<name>A011C019_1901093P.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_003/TLJ_11/A011CMFA/Clip/A011C019_1901093P/A011C019_1901093P.mov</pathurl>
 							<rate>
@@ -12468,8 +12468,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-276">
-						<masterclipid>masterclip-104</masterclipid>
+					<clipitem id="clipitem-56">
+						<masterclipid>masterclip-28</masterclipid>
 						<name>MNT_007_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>872</duration>
@@ -12486,7 +12486,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-104">
+						<file id="file-28">
 							<name>A011C011_190109HK.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_003/TLJ_11/A011CMFA/Clip/A011C011_190109HK/A011C011_190109HK.mov</pathurl>
 							<rate>
@@ -12880,8 +12880,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-277">
-						<masterclipid>masterclip-105</masterclipid>
+					<clipitem id="clipitem-57">
+						<masterclipid>masterclip-29</masterclipid>
 						<name>MNT_011_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>3504</duration>
@@ -12898,7 +12898,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-105">
+						<file id="file-29">
 							<name>A011C015_1901095O.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_003/TLJ_11/A011CMFA/Clip/A011C015_1901095O/A011C015_1901095O.mov</pathurl>
 							<rate>
@@ -13292,8 +13292,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-278">
-						<masterclipid>masterclip-106</masterclipid>
+					<clipitem id="clipitem-58">
+						<masterclipid>masterclip-30</masterclipid>
 						<name>MNT_005_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>300</duration>
@@ -13310,7 +13310,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-106">
+						<file id="file-30">
 							<name>A011C007_190109CP.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_003/TLJ_11/A011CMFA/Clip/A011C007_190109CP/A011C007_190109CP.mov</pathurl>
 							<rate>
@@ -13704,8 +13704,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-279">
-						<masterclipid>masterclip-107</masterclipid>
+					<clipitem id="clipitem-59">
+						<masterclipid>masterclip-31</masterclipid>
 						<name>MNT_004_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>564</duration>
@@ -13722,7 +13722,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-107">
+						<file id="file-31">
 							<name>A011C004_190109AO.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_003/TLJ_11/A011CMFA/Clip/A011C004_190109AO/A011C004_190109AO.mov</pathurl>
 							<rate>
@@ -14116,8 +14116,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-280">
-						<masterclipid>masterclip-108</masterclipid>
+					<clipitem id="clipitem-60">
+						<masterclipid>masterclip-32</masterclipid>
 						<name>006M_04_A</name>
 						<enabled>TRUE</enabled>
 						<duration>844</duration>
@@ -14134,7 +14134,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-108">
+						<file id="file-32">
 							<name>A003C006_1901072L.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_3/A003CR3G/Clip/A003C006_1901072L/A003C006_1901072L.mov</pathurl>
 							<rate>
@@ -14518,8 +14518,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-281">
-						<masterclipid>masterclip-109</masterclipid>
+					<clipitem id="clipitem-61">
+						<masterclipid>masterclip-33</masterclipid>
 						<name>006_04_A</name>
 						<enabled>TRUE</enabled>
 						<duration>852</duration>
@@ -14536,7 +14536,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-109">
+						<file id="file-33">
 							<name>A001C004_190107JZ.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_1/A001CMXQ/Clip/A001C004_190107JZ/A001C004_190107JZ.mov</pathurl>
 							<rate>
@@ -14960,8 +14960,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-282">
-						<masterclipid>masterclip-110</masterclipid>
+					<clipitem id="clipitem-62">
+						<masterclipid>masterclip-34</masterclipid>
 						<name>006N_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>2968</duration>
@@ -14978,7 +14978,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-110">
+						<file id="file-34">
 							<name>A003C018_190107WK.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_3/A003CR3G/Clip/A003C018_190107WK/A003C018_190107WK.mov</pathurl>
 							<rate>
@@ -15362,8 +15362,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-283">
-						<masterclipid>masterclip-111</masterclipid>
+					<clipitem id="clipitem-63">
+						<masterclipid>masterclip-35</masterclipid>
 						<name>006V_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6932</duration>
@@ -15380,7 +15380,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-111">
+						<file id="file-35">
 							<name>A004C009_190107PN.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_4/A004CQFH/Clip/A004C009_190107PN/A004C009_190107PN.mov</pathurl>
 							<rate>
@@ -15804,8 +15804,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-284">
-						<masterclipid>masterclip-112</masterclipid>
+					<clipitem id="clipitem-64">
+						<masterclipid>masterclip-36</masterclipid>
 						<name>006H_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>8156</duration>
@@ -15822,7 +15822,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-112">
+						<file id="file-36">
 							<name>A002C004_190107GS.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_2/A002CPK2/Clip/A002C004_190107GS/A002C004_190107GS.mov</pathurl>
 							<rate>
@@ -16246,8 +16246,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-285">
-						<masterclipid>masterclip-113</masterclipid>
+					<clipitem id="clipitem-65">
+						<masterclipid>masterclip-37</masterclipid>
 						<name>006D_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6856</duration>
@@ -16264,7 +16264,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-113">
+						<file id="file-37">
 							<name>A001C014_19010722.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_1/A001CMXQ/Clip/A001C014_19010722/A001C014_19010722.mov</pathurl>
 							<rate>
@@ -16688,8 +16688,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-286">
-						<masterclipid>masterclip-109</masterclipid>
+					<clipitem id="clipitem-66">
+						<masterclipid>masterclip-33</masterclipid>
 						<name>006_04_A</name>
 						<enabled>TRUE</enabled>
 						<duration>852</duration>
@@ -16704,7 +16704,7 @@
 						<pproTicksIn>4502698200000</pproTicksIn>
 						<pproTicksOut>5117184072000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-109"/>
+						<file id="file-33"/>
 						<logginginfo>
 							<description>3/4 MS Driver Outside</description>
 							<scene></scene>
@@ -16725,8 +16725,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-287">
-						<masterclipid>masterclip-114</masterclipid>
+					<clipitem id="clipitem-67">
+						<masterclipid>masterclip-38</masterclipid>
 						<name>006N_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1140</duration>
@@ -16743,7 +16743,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-114">
+						<file id="file-38">
 							<name>A003C019_19010724.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_3/A003CR3G/Clip/A003C019_19010724/A003C019_19010724.mov</pathurl>
 							<rate>
@@ -17127,8 +17127,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-288">
-						<masterclipid>masterclip-115</masterclipid>
+					<clipitem id="clipitem-68">
+						<masterclipid>masterclip-39</masterclipid>
 						<name>006R_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10080</duration>
@@ -17145,7 +17145,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-115">
+						<file id="file-39">
 							<name>A004C001_190107MO.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_4/A004CQFH/Clip/A004C001_190107MO/A004C001_190107MO.mov</pathurl>
 							<rate>
@@ -17579,8 +17579,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-289">
-						<masterclipid>masterclip-116</masterclipid>
+					<clipitem id="clipitem-69">
+						<masterclipid>masterclip-40</masterclipid>
 						<name>006C_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7772</duration>
@@ -17597,7 +17597,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-116">
+						<file id="file-40">
 							<name>A001C012_1901079U.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_1/A001CMXQ/Clip/A001C012_1901079U/A001C012_1901079U.mov</pathurl>
 							<rate>
@@ -18021,8 +18021,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-290">
-						<masterclipid>masterclip-117</masterclipid>
+					<clipitem id="clipitem-70">
+						<masterclipid>masterclip-41</masterclipid>
 						<name>006P_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>3304</duration>
@@ -18039,7 +18039,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-117">
+						<file id="file-41">
 							<name>A003C020_190107TL.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_3/A003CR3G/Clip/A003C020_190107TL/A003C020_190107TL.mov</pathurl>
 							<rate>
@@ -18423,8 +18423,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-291">
-						<masterclipid>masterclip-118</masterclipid>
+					<clipitem id="clipitem-71">
+						<masterclipid>masterclip-42</masterclipid>
 						<name>006G_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>11544</duration>
@@ -18441,7 +18441,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-118">
+						<file id="file-42">
 							<name>A002C002_190107VA.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_2/A002CPK2/Clip/A002C002_190107VA/A002C002_190107VA.mov</pathurl>
 							<rate>
@@ -18865,8 +18865,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-292">
-						<masterclipid>masterclip-116</masterclipid>
+					<clipitem id="clipitem-72">
+						<masterclipid>masterclip-40</masterclipid>
 						<name>006C_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7772</duration>
@@ -18881,7 +18881,7 @@
 						<pproTicksIn>8126045928000</pproTicksIn>
 						<pproTicksOut>8518045536000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-116"/>
+						<file id="file-40"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Brains Inside</description>
 							<scene></scene>
@@ -18902,8 +18902,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-293">
-						<masterclipid>masterclip-119</masterclipid>
+					<clipitem id="clipitem-73">
+						<masterclipid>masterclip-43</masterclipid>
 						<name>006Q_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10300</duration>
@@ -18920,7 +18920,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-119">
+						<file id="file-43">
 							<name>A003C023_190107DK.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_3/A003CR3G/Clip/A003C023_190107DK/A003C023_190107DK.mov</pathurl>
 							<rate>
@@ -19354,8 +19354,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-294">
-						<masterclipid>masterclip-118</masterclipid>
+					<clipitem id="clipitem-74">
+						<masterclipid>masterclip-42</masterclipid>
 						<name>006G_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>11544</duration>
@@ -19370,7 +19370,7 @@
 						<pproTicksIn>22121491392000</pproTicksIn>
 						<pproTicksOut>22725382680000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-118"/>
+						<file id="file-42"/>
 						<logginginfo>
 							<description>3/4 MS Dani/Convict - Inside</description>
 							<scene></scene>
@@ -19391,8 +19391,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-295">
-						<masterclipid>masterclip-120</masterclipid>
+					<clipitem id="clipitem-75">
+						<masterclipid>masterclip-44</masterclipid>
 						<name>006U_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7924</duration>
@@ -19409,7 +19409,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-120">
+						<file id="file-44">
 							<name>A004C008_190107NF.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_4/A004CQFH/Clip/A004C008_190107NF/A004C008_190107NF.mov</pathurl>
 							<rate>
@@ -19833,8 +19833,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-296">
-						<masterclipid>masterclip-121</masterclipid>
+					<clipitem id="clipitem-76">
+						<masterclipid>masterclip-45</masterclipid>
 						<name>006D_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6052</duration>
@@ -19851,7 +19851,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-121">
+						<file id="file-45">
 							<name>A001C013_190107SK.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_1/A001CMXQ/Clip/A001C013_190107SK/A001C013_190107SK.mov</pathurl>
 							<rate>
@@ -20275,8 +20275,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-297">
-						<masterclipid>masterclip-118</masterclipid>
+					<clipitem id="clipitem-77">
+						<masterclipid>masterclip-42</masterclipid>
 						<name>006G_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>11544</duration>
@@ -20291,7 +20291,7 @@
 						<pproTicksIn>10658151504000</pproTicksIn>
 						<pproTicksOut>11050151112000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-118"/>
+						<file id="file-42"/>
 						<logginginfo>
 							<description>3/4 MS Dani/Convict - Inside</description>
 							<scene></scene>
@@ -20312,8 +20312,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-298">
-						<masterclipid>masterclip-122</masterclipid>
+					<clipitem id="clipitem-78">
+						<masterclipid>masterclip-46</masterclipid>
 						<name>006R_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10584</duration>
@@ -20330,7 +20330,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-122">
+						<file id="file-46">
 							<name>A004C002_190107FV.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_4/A004CQFH/Clip/A004C002_190107FV/A004C002_190107FV.mov</pathurl>
 							<rate>
@@ -20764,8 +20764,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-299">
-						<masterclipid>masterclip-112</masterclipid>
+					<clipitem id="clipitem-79">
+						<masterclipid>masterclip-36</masterclipid>
 						<name>006H_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>8156</duration>
@@ -20780,7 +20780,7 @@
 						<pproTicksIn>21888410544000</pproTicksIn>
 						<pproTicksOut>22439328912000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-112"/>
+						<file id="file-36"/>
 						<logginginfo>
 							<description>3/4 MS Convict - Inside</description>
 							<scene></scene>
@@ -20801,8 +20801,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-300">
-						<masterclipid>masterclip-111</masterclipid>
+					<clipitem id="clipitem-80">
+						<masterclipid>masterclip-35</masterclipid>
 						<name>006V_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6932</duration>
@@ -20817,7 +20817,7 @@
 						<pproTicksIn>9482152680000</pproTicksIn>
 						<pproTicksOut>9990692712000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-111"/>
+						<file id="file-35"/>
 						<logginginfo>
 							<description>3/4 MS Dani - Inside</description>
 							<scene></scene>
@@ -20838,8 +20838,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-301">
-						<masterclipid>masterclip-112</masterclipid>
+					<clipitem id="clipitem-81">
+						<masterclipid>masterclip-36</masterclipid>
 						<name>006H_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>8156</duration>
@@ -20854,7 +20854,7 @@
 						<pproTicksIn>23202138960000</pproTicksIn>
 						<pproTicksOut>23742462744000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-112"/>
+						<file id="file-36"/>
 						<logginginfo>
 							<description>3/4 MS Convict - Inside</description>
 							<scene></scene>
@@ -20875,8 +20875,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-302">
-						<masterclipid>masterclip-123</masterclipid>
+					<clipitem id="clipitem-82">
+						<masterclipid>masterclip-47</masterclipid>
 						<name>006K_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>9688</duration>
@@ -20893,7 +20893,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-123">
+						<file id="file-47">
 							<name>A002C006_190107SI.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_2/A002CPK2/Clip/A002C006_190107SI/A002C006_190107SI.mov</pathurl>
 							<rate>
@@ -21317,8 +21317,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-303">
-						<masterclipid>masterclip-124</masterclipid>
+					<clipitem id="clipitem-83">
+						<masterclipid>masterclip-48</masterclipid>
 						<name>006U_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>8004</duration>
@@ -21335,7 +21335,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-124">
+						<file id="file-48">
 							<name>A004C007_190107N6.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_4/A004CQFH/Clip/A004C007_190107N6/A004C007_190107N6.mov</pathurl>
 							<rate>
@@ -21759,8 +21759,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-304">
-						<masterclipid>masterclip-125</masterclipid>
+					<clipitem id="clipitem-84">
+						<masterclipid>masterclip-49</masterclipid>
 						<name>006_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>4948</duration>
@@ -21777,7 +21777,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-125">
+						<file id="file-49">
 							<name>A001C002_190107J7.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_1/A001CMXQ/Clip/A001C002_190107J7/A001C002_190107J7.mov</pathurl>
 							<rate>
@@ -22201,8 +22201,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-305">
-						<masterclipid>masterclip-120</masterclipid>
+					<clipitem id="clipitem-85">
+						<masterclipid>masterclip-44</masterclipid>
 						<name>006U_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7924</duration>
@@ -22217,7 +22217,7 @@
 						<pproTicksIn>18095549472000</pproTicksIn>
 						<pproTicksOut>18466359912000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-120"/>
+						<file id="file-44"/>
 						<logginginfo>
 							<description>MS Convict/Dani/Driver - Inside</description>
 							<scene></scene>
@@ -22238,8 +22238,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-306">
-						<masterclipid>masterclip-123</masterclipid>
+					<clipitem id="clipitem-86">
+						<masterclipid>masterclip-47</masterclipid>
 						<name>006K_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>9688</duration>
@@ -22254,7 +22254,7 @@
 						<pproTicksIn>32112184104000</pproTicksIn>
 						<pproTicksOut>32525372880000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-123"/>
+						<file id="file-47"/>
 						<logginginfo>
 							<description>OTS Dani on Brains/Convict - Inside</description>
 							<scene></scene>
@@ -22275,8 +22275,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-307">
-						<masterclipid>masterclip-111</masterclipid>
+					<clipitem id="clipitem-87">
+						<masterclipid>masterclip-35</masterclipid>
 						<name>006V_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6932</duration>
@@ -22291,7 +22291,7 @@
 						<pproTicksIn>13741175448000</pproTicksIn>
 						<pproTicksOut>14398039656000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-111"/>
+						<file id="file-35"/>
 						<logginginfo>
 							<description>3/4 MS Dani - Inside</description>
 							<scene></scene>
@@ -22312,8 +22312,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-308">
-						<masterclipid>masterclip-123</masterclipid>
+					<clipitem id="clipitem-88">
+						<masterclipid>masterclip-47</masterclipid>
 						<name>006K_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>9688</duration>
@@ -22328,7 +22328,7 @@
 						<pproTicksIn>32959750824000</pproTicksIn>
 						<pproTicksOut>33362345016000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-123"/>
+						<file id="file-47"/>
 						<logginginfo>
 							<description>OTS Dani on Brains/Convict - Inside</description>
 							<scene></scene>
@@ -22349,8 +22349,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-309">
-						<masterclipid>masterclip-120</masterclipid>
+					<clipitem id="clipitem-89">
+						<masterclipid>masterclip-44</masterclipid>
 						<name>006U_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7924</duration>
@@ -22365,7 +22365,7 @@
 						<pproTicksIn>19568196648000</pproTicksIn>
 						<pproTicksOut>20108520432000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-120"/>
+						<file id="file-44"/>
 						<logginginfo>
 							<description>MS Convict/Dani/Driver - Inside</description>
 							<scene></scene>
@@ -22386,8 +22386,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-310">
-						<masterclipid>masterclip-126</masterclipid>
+					<clipitem id="clipitem-90">
+						<masterclipid>masterclip-50</masterclipid>
 						<name>006W_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6676</duration>
@@ -22404,7 +22404,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-126">
+						<file id="file-50">
 							<name>A005C001_1901075P.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_5/A005CLAO/Clip/A005C001_1901075P/A005C001_1901075P.mov</pathurl>
 							<rate>
@@ -22828,8 +22828,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-311">
-						<masterclipid>masterclip-112</masterclipid>
+					<clipitem id="clipitem-91">
+						<masterclipid>masterclip-36</masterclipid>
 						<name>006H_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>8156</duration>
@@ -22844,7 +22844,7 @@
 						<pproTicksIn>26571216672000</pproTicksIn>
 						<pproTicksOut>27334026720000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-112"/>
+						<file id="file-36"/>
 						<logginginfo>
 							<description>3/4 MS Convict - Inside</description>
 							<scene></scene>
@@ -22865,8 +22865,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-312">
-						<masterclipid>masterclip-120</masterclipid>
+					<clipitem id="clipitem-92">
+						<masterclipid>masterclip-44</masterclipid>
 						<name>006U_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7924</duration>
@@ -22881,7 +22881,7 @@
 						<pproTicksIn>26115649560000</pproTicksIn>
 						<pproTicksOut>26751324600000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-120"/>
+						<file id="file-44"/>
 						<logginginfo>
 							<description>MS Convict/Dani/Driver - Inside</description>
 							<scene></scene>
@@ -22902,8 +22902,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-313">
-						<masterclipid>masterclip-118</masterclipid>
+					<clipitem id="clipitem-93">
+						<masterclipid>masterclip-42</masterclipid>
 						<name>006G_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>11544</duration>
@@ -22918,7 +22918,7 @@
 						<pproTicksIn>36254666448000</pproTicksIn>
 						<pproTicksOut>36689044392000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-118"/>
+						<file id="file-42"/>
 						<logginginfo>
 							<description>3/4 MS Dani/Convict - Inside</description>
 							<scene></scene>
@@ -22939,8 +22939,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-314">
-						<masterclipid>masterclip-120</masterclipid>
+					<clipitem id="clipitem-94">
+						<masterclipid>masterclip-44</masterclipid>
 						<name>006U_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7924</duration>
@@ -22955,7 +22955,7 @@
 						<pproTicksIn>29590673112000</pproTicksIn>
 						<pproTicksOut>30067429392000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-120"/>
+						<file id="file-44"/>
 						<logginginfo>
 							<description>MS Convict/Dani/Driver - Inside</description>
 							<scene></scene>
@@ -22976,8 +22976,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-315">
-						<masterclipid>masterclip-127</masterclipid>
+					<clipitem id="clipitem-95">
+						<masterclipid>masterclip-51</masterclipid>
 						<name>006J_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>8580</duration>
@@ -22994,7 +22994,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-127">
+						<file id="file-51">
 							<name>A002C005_1901078O.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_2/A002CPK2/Clip/A002C005_1901078O/A002C005_1901078O.mov</pathurl>
 							<rate>
@@ -23418,8 +23418,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-316">
-						<masterclipid>masterclip-128</masterclipid>
+					<clipitem id="clipitem-96">
+						<masterclipid>masterclip-52</masterclipid>
 						<name>006G_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6680</duration>
@@ -23436,7 +23436,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-128">
+						<file id="file-52">
 							<name>A002C001_190107W1.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_2/A002CPK2/Clip/A002C001_190107W1/A002C001_190107W1.mov</pathurl>
 							<rate>
@@ -23860,8 +23860,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-317">
-						<masterclipid>masterclip-129</masterclipid>
+					<clipitem id="clipitem-97">
+						<masterclipid>masterclip-53</masterclipid>
 						<name>006L_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7300</duration>
@@ -23878,7 +23878,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-129">
+						<file id="file-53">
 							<name>A003C001_190107GT.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_3/A003CR3G/Clip/A003C001_190107GT/A003C001_190107GT.mov</pathurl>
 							<rate>
@@ -24302,8 +24302,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-318">
-						<masterclipid>masterclip-119</masterclipid>
+					<clipitem id="clipitem-98">
+						<masterclipid>masterclip-43</masterclipid>
 						<name>006Q_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10300</duration>
@@ -24318,7 +24318,7 @@
 						<pproTicksIn>30660726096000</pproTicksIn>
 						<pproTicksOut>31953265344000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-119"/>
+						<file id="file-43"/>
 						<logginginfo>
 							<description>3/4 MS Brains/Driver - Inside</description>
 							<scene></scene>
@@ -24339,8 +24339,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-319">
-						<masterclipid>masterclip-116</masterclipid>
+					<clipitem id="clipitem-99">
+						<masterclipid>masterclip-40</masterclipid>
 						<name>006C_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7772</duration>
@@ -24355,7 +24355,7 @@
 						<pproTicksIn>18815981184000</pproTicksIn>
 						<pproTicksOut>19504629144000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-116"/>
+						<file id="file-40"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Brains Inside</description>
 							<scene></scene>
@@ -24376,8 +24376,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-320">
-						<masterclipid>masterclip-111</masterclipid>
+					<clipitem id="clipitem-100">
+						<masterclipid>masterclip-35</masterclipid>
 						<name>006V_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6932</duration>
@@ -24392,7 +24392,7 @@
 						<pproTicksIn>23011436448000</pproTicksIn>
 						<pproTicksOut>23350463136000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-111"/>
+						<file id="file-35"/>
 						<logginginfo>
 							<description>3/4 MS Dani - Inside</description>
 							<scene></scene>
@@ -24413,8 +24413,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-321">
-						<masterclipid>masterclip-119</masterclipid>
+					<clipitem id="clipitem-101">
+						<masterclipid>masterclip-43</masterclipid>
 						<name>006Q_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10300</duration>
@@ -24429,7 +24429,7 @@
 						<pproTicksIn>32546562048000</pproTicksIn>
 						<pproTicksOut>33627209616000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-119"/>
+						<file id="file-43"/>
 						<logginginfo>
 							<description>3/4 MS Brains/Driver - Inside</description>
 							<scene></scene>
@@ -24450,8 +24450,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-322">
-						<masterclipid>masterclip-130</masterclipid>
+					<clipitem id="clipitem-102">
+						<masterclipid>masterclip-54</masterclipid>
 						<name>006S_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6296</duration>
@@ -24468,7 +24468,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-130">
+						<file id="file-54">
 							<name>A004C003_19010763.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_4/A004CQFH/Clip/A004C003_19010763/A004C003_19010763.mov</pathurl>
 							<rate>
@@ -24892,8 +24892,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-323">
-						<masterclipid>masterclip-123</masterclipid>
+					<clipitem id="clipitem-103">
+						<masterclipid>masterclip-47</masterclipid>
 						<name>006K_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>9688</duration>
@@ -24908,7 +24908,7 @@
 						<pproTicksIn>40662013392000</pproTicksIn>
 						<pproTicksOut>41318877600000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-123"/>
+						<file id="file-47"/>
 						<logginginfo>
 							<description>OTS Dani on Brains/Convict - Inside</description>
 							<scene></scene>
@@ -24929,8 +24929,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-324">
-						<masterclipid>masterclip-116</masterclipid>
+					<clipitem id="clipitem-104">
+						<masterclipid>masterclip-40</masterclipid>
 						<name>006C_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7772</duration>
@@ -24945,7 +24945,7 @@
 						<pproTicksIn>21549383856000</pproTicksIn>
 						<pproTicksOut>22820733936000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-116"/>
+						<file id="file-40"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Brains Inside</description>
 							<scene></scene>
@@ -24966,8 +24966,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-325">
-						<masterclipid>masterclip-120</masterclipid>
+					<clipitem id="clipitem-105">
+						<masterclipid>masterclip-44</masterclipid>
 						<name>006U_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7924</duration>
@@ -24982,7 +24982,7 @@
 						<pproTicksIn>40630229640000</pproTicksIn>
 						<pproTicksOut>41191742592000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-120"/>
+						<file id="file-44"/>
 						<logginginfo>
 							<description>MS Convict/Dani/Driver - Inside</description>
 							<scene></scene>
@@ -25003,8 +25003,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-326">
-						<masterclipid>masterclip-118</masterclipid>
+					<clipitem id="clipitem-106">
+						<masterclipid>masterclip-42</masterclipid>
 						<name>006G_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>11544</duration>
@@ -25019,7 +25019,7 @@
 						<pproTicksIn>48237140952000</pproTicksIn>
 						<pproTicksOut>48682113480000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-118"/>
+						<file id="file-42"/>
 						<logginginfo>
 							<description>3/4 MS Dani/Convict - Inside</description>
 							<scene></scene>
@@ -25040,8 +25040,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-327">
-						<masterclipid>masterclip-120</masterclipid>
+					<clipitem id="clipitem-107">
+						<masterclipid>masterclip-44</masterclipid>
 						<name>006U_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7924</duration>
@@ -25056,7 +25056,7 @@
 						<pproTicksIn>41403634272000</pproTicksIn>
 						<pproTicksOut>41626120536000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-120"/>
+						<file id="file-44"/>
 						<logginginfo>
 							<description>MS Convict/Dani/Driver - Inside</description>
 							<scene></scene>
@@ -25077,8 +25077,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-328">
-						<masterclipid>masterclip-126</masterclipid>
+					<clipitem id="clipitem-108">
+						<masterclipid>masterclip-50</masterclipid>
 						<name>006W_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6676</duration>
@@ -25093,7 +25093,7 @@
 						<pproTicksIn>59266102896000</pproTicksIn>
 						<pproTicksOut>59647507920000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-126"/>
+						<file id="file-50"/>
 						<logginginfo>
 							<description>CU Convict/Dani's Hands - Inside</description>
 							<scene></scene>
@@ -25114,8 +25114,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-329">
-						<masterclipid>masterclip-118</masterclipid>
+					<clipitem id="clipitem-109">
+						<masterclipid>masterclip-42</masterclipid>
 						<name>006G_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>11544</duration>
@@ -25130,7 +25130,7 @@
 						<pproTicksIn>48883410576000</pproTicksIn>
 						<pproTicksOut>49201248096000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-118"/>
+						<file id="file-42"/>
 						<logginginfo>
 							<description>3/4 MS Dani/Convict - Inside</description>
 							<scene></scene>
@@ -25151,8 +25151,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-330">
-						<masterclipid>masterclip-131</masterclipid>
+					<clipitem id="clipitem-110">
+						<masterclipid>masterclip-55</masterclipid>
 						<name>006F_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>9588</duration>
@@ -25169,7 +25169,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-131">
+						<file id="file-55">
 							<name>A001C020_190107TN.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_1/A001CMXQ/Clip/A001C020_190107TN/A001C020_190107TN.mov</pathurl>
 							<rate>
@@ -25593,8 +25593,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-331">
-						<masterclipid>masterclip-116</masterclipid>
+					<clipitem id="clipitem-111">
+						<masterclipid>masterclip-40</masterclipid>
 						<name>006C_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7772</duration>
@@ -25609,7 +25609,7 @@
 						<pproTicksIn>23308084800000</pproTicksIn>
 						<pproTicksOut>23541165648000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-116"/>
+						<file id="file-40"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Brains Inside</description>
 							<scene></scene>
@@ -25630,8 +25630,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-332">
-						<masterclipid>masterclip-111</masterclipid>
+					<clipitem id="clipitem-112">
+						<masterclipid>masterclip-35</masterclipid>
 						<name>006V_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6932</duration>
@@ -25646,7 +25646,7 @@
 						<pproTicksIn>25416407016000</pproTicksIn>
 						<pproTicksOut>25628298696000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-111"/>
+						<file id="file-35"/>
 						<logginginfo>
 							<description>3/4 MS Dani - Inside</description>
 							<scene></scene>
@@ -25667,8 +25667,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-333">
-						<masterclipid>masterclip-129</masterclipid>
+					<clipitem id="clipitem-113">
+						<masterclipid>masterclip-53</masterclipid>
 						<name>006L_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7300</duration>
@@ -25683,7 +25683,7 @@
 						<pproTicksIn>11940096168000</pproTicksIn>
 						<pproTicksOut>12766473720000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-129"/>
+						<file id="file-53"/>
 						<logginginfo>
 							<description>Dash MS on Driver/Brains/Convict - Inside</description>
 							<scene></scene>
@@ -25704,8 +25704,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-334">
-						<masterclipid>masterclip-115</masterclipid>
+					<clipitem id="clipitem-114">
+						<masterclipid>masterclip-39</masterclipid>
 						<name>006R_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10080</duration>
@@ -25720,7 +25720,7 @@
 						<pproTicksIn>34665478848000</pproTicksIn>
 						<pproTicksOut>35015100120000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-115"/>
+						<file id="file-39"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Security - Inside</description>
 							<scene></scene>
@@ -25741,8 +25741,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-335">
-						<masterclipid>masterclip-113</masterclipid>
+					<clipitem id="clipitem-115">
+						<masterclipid>masterclip-37</masterclipid>
 						<name>006D_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6856</duration>
@@ -25757,7 +25757,7 @@
 						<pproTicksIn>26295757488000</pproTicksIn>
 						<pproTicksOut>26836081272000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-113"/>
+						<file id="file-37"/>
 						<logginginfo>
 							<description>3/4 MS Brains Inside</description>
 							<scene></scene>
@@ -25778,8 +25778,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-336">
-						<masterclipid>masterclip-125</masterclipid>
+					<clipitem id="clipitem-116">
+						<masterclipid>masterclip-49</masterclipid>
 						<name>006_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>4948</duration>
@@ -25794,7 +25794,7 @@
 						<pproTicksIn>18265062816000</pproTicksIn>
 						<pproTicksOut>18710035344000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-125"/>
+						<file id="file-49"/>
 						<logginginfo>
 							<description>3/4 MS Driver Outside</description>
 							<scene></scene>
@@ -25815,8 +25815,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-337">
-						<masterclipid>masterclip-117</masterclipid>
+					<clipitem id="clipitem-117">
+						<masterclipid>masterclip-41</masterclipid>
 						<name>006P_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>3304</duration>
@@ -25831,7 +25831,7 @@
 						<pproTicksIn>16495767288000</pproTicksIn>
 						<pproTicksOut>17078469408000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-117"/>
+						<file id="file-41"/>
 						<logginginfo>
 							<description>MWS Bank with Security/Manager - Outside</description>
 							<scene></scene>
@@ -25852,8 +25852,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-338">
-						<masterclipid>masterclip-119</masterclipid>
+					<clipitem id="clipitem-118">
+						<masterclipid>masterclip-43</masterclipid>
 						<name>006Q_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10300</duration>
@@ -25868,7 +25868,7 @@
 						<pproTicksIn>42039309312000</pproTicksIn>
 						<pproTicksOut>42706768104000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-119"/>
+						<file id="file-43"/>
 						<logginginfo>
 							<description>3/4 MS Brains/Driver - Inside</description>
 							<scene></scene>
@@ -25889,8 +25889,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-339">
-						<masterclipid>masterclip-116</masterclipid>
+					<clipitem id="clipitem-119">
+						<masterclipid>masterclip-40</masterclipid>
 						<name>006C_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7772</duration>
@@ -25905,7 +25905,7 @@
 						<pproTicksIn>28658349720000</pproTicksIn>
 						<pproTicksOut>29272835592000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-116"/>
+						<file id="file-40"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Brains Inside</description>
 							<scene></scene>
@@ -25926,8 +25926,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-340">
-						<masterclipid>masterclip-125</masterclipid>
+					<clipitem id="clipitem-120">
+						<masterclipid>masterclip-49</masterclipid>
 						<name>006_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>4948</duration>
@@ -25942,7 +25942,7 @@
 						<pproTicksIn>32165157024000</pproTicksIn>
 						<pproTicksOut>32663102472000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-125"/>
+						<file id="file-49"/>
 						<logginginfo>
 							<description>3/4 MS Driver Outside</description>
 							<scene></scene>
@@ -25963,8 +25963,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-341">
-						<masterclipid>masterclip-113</masterclipid>
+					<clipitem id="clipitem-121">
+						<masterclipid>masterclip-37</masterclipid>
 						<name>006D_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6856</duration>
@@ -25979,7 +25979,7 @@
 						<pproTicksIn>30480618168000</pproTicksIn>
 						<pproTicksOut>31974454512000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-113"/>
+						<file id="file-37"/>
 						<logginginfo>
 							<description>3/4 MS Brains Inside</description>
 							<scene></scene>
@@ -26000,8 +26000,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-342">
-						<masterclipid>masterclip-124</masterclipid>
+					<clipitem id="clipitem-122">
+						<masterclipid>masterclip-48</masterclipid>
 						<name>006U_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>8004</duration>
@@ -26016,7 +26016,7 @@
 						<pproTicksIn>39581365824000</pproTicksIn>
 						<pproTicksOut>39952176264000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-124"/>
+						<file id="file-48"/>
 						<logginginfo>
 							<description>MS Convict/Dani/Driver - Inside</description>
 							<scene></scene>
@@ -26037,8 +26037,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-343">
-						<masterclipid>masterclip-123</masterclipid>
+					<clipitem id="clipitem-123">
+						<masterclipid>masterclip-47</masterclipid>
 						<name>006K_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>9688</duration>
@@ -26053,7 +26053,7 @@
 						<pproTicksIn>62200802664000</pproTicksIn>
 						<pproTicksOut>62984801880000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-123"/>
+						<file id="file-47"/>
 						<logginginfo>
 							<description>OTS Dani on Brains/Convict - Inside</description>
 							<scene></scene>
@@ -26074,8 +26074,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-344">
-						<masterclipid>masterclip-119</masterclipid>
+					<clipitem id="clipitem-124">
+						<masterclipid>masterclip-43</masterclipid>
 						<name>006Q_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10300</duration>
@@ -26090,7 +26090,7 @@
 						<pproTicksIn>47198871720000</pproTicksIn>
 						<pproTicksOut>47707411752000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-119"/>
+						<file id="file-43"/>
 						<logginginfo>
 							<description>3/4 MS Brains/Driver - Inside</description>
 							<scene></scene>
@@ -26111,8 +26111,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-345">
-						<masterclipid>masterclip-118</masterclipid>
+					<clipitem id="clipitem-125">
+						<masterclipid>masterclip-42</masterclipid>
 						<name>006G_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>11544</duration>
@@ -26127,7 +26127,7 @@
 						<pproTicksIn>55473241824000</pproTicksIn>
 						<pproTicksOut>55822863096000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-118"/>
+						<file id="file-42"/>
 						<logginginfo>
 							<description>3/4 MS Dani/Convict - Inside</description>
 							<scene></scene>
@@ -26148,90 +26148,23 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-346">
-						<masterclipid>masterclip-118</masterclipid>
+					<clipitem id="clipitem-126">
+						<masterclipid>masterclip-42</masterclipid>
 						<name>006G_02_A</name>
 						<enabled>TRUE</enabled>
-						<duration>5772</duration>
+						<duration>11544</duration>
 						<rate>
 							<timebase>24</timebase>
 							<ntsc>TRUE</ntsc>
 						</rate>
 						<start>8609</start>
 						<end>8615</end>
-						<in>2634</in>
-						<out>2640</out>
+						<in>5269</in>
+						<out>5275</out>
 						<pproTicksIn>55822863096000</pproTicksIn>
-						<pproTicksOut>55949998104000</pproTicksOut>
+						<pproTicksOut>55886430600000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-118"/>
-						<filter>
-							<effect>
-								<name>Time Remap</name>
-								<effectid>timeremap</effectid>
-								<effectcategory>motion</effectcategory>
-								<effecttype>motion</effecttype>
-								<mediatype>video</mediatype>
-								<parameter authoringApp="PremierePro">
-									<parameterid>variablespeed</parameterid>
-									<name>variablespeed</name>
-									<valuemin>0</valuemin>
-									<valuemax>1</valuemax>
-									<value>0</value>
-								</parameter>
-								<parameter authoringApp="PremierePro">
-									<parameterid>speed</parameterid>
-									<name>speed</name>
-									<valuemin>-100000</valuemin>
-									<valuemax>100000</valuemax>
-									<value>200</value>
-								</parameter>
-								<parameter authoringApp="PremierePro">
-									<parameterid>reverse</parameterid>
-									<name>reverse</name>
-									<value>FALSE</value>
-								</parameter>
-								<parameter authoringApp="PremierePro">
-									<parameterid>frameblending</parameterid>
-									<name>frameblending</name>
-									<value>FALSE</value>
-								</parameter>
-								<parameter authoringApp="PremierePro">
-									<parameterid>graphdict</parameterid>
-									<name>graphdict</name>
-									<valuemin>0</valuemin>
-									<valuemax>11544</valuemax>
-									<value>0</value>
-									<keyframe>
-										<when>0</when>
-										<value>0</value>
-										<speedvirtualkf>TRUE</speedvirtualkf>
-										<speedkfstart>TRUE</speedkfstart>
-									</keyframe>
-									<keyframe>
-										<when>2634</when>
-										<value>5268</value>
-										<speedvirtualkf>TRUE</speedvirtualkf>
-										<speedkfin>TRUE</speedkfin>
-									</keyframe>
-									<keyframe>
-										<when>2640</when>
-										<value>5280</value>
-										<speedvirtualkf>TRUE</speedvirtualkf>
-										<speedkfout>TRUE</speedkfout>
-									</keyframe>
-									<keyframe>
-										<when>5772</when>
-										<value>11544</value>
-										<speedvirtualkf>TRUE</speedvirtualkf>
-										<speedkfend>TRUE</speedkfend>
-									</keyframe>
-									<interpolation>
-										<name>FCPCurve</name>
-									</interpolation>
-								</parameter>
-							</effect>
-						</filter>
+						<file id="file-42"/>
 						<logginginfo>
 							<description>3/4 MS Dani/Convict - Inside</description>
 							<scene></scene>
@@ -26252,8 +26185,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-347">
-						<masterclipid>masterclip-118</masterclipid>
+					<clipitem id="clipitem-127">
+						<masterclipid>masterclip-42</masterclipid>
 						<name>006G_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>11544</duration>
@@ -26268,7 +26201,7 @@
 						<pproTicksIn>55949998104000</pproTicksIn>
 						<pproTicksOut>56320808544000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-118"/>
+						<file id="file-42"/>
 						<logginginfo>
 							<description>3/4 MS Dani/Convict - Inside</description>
 							<scene></scene>
@@ -26289,8 +26222,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-348">
-						<masterclipid>masterclip-119</masterclipid>
+					<clipitem id="clipitem-128">
+						<masterclipid>masterclip-43</masterclipid>
 						<name>006Q_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10300</duration>
@@ -26305,7 +26238,7 @@
 						<pproTicksIn>48120600528000</pproTicksIn>
 						<pproTicksOut>48480816384000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-119"/>
+						<file id="file-43"/>
 						<logginginfo>
 							<description>3/4 MS Brains/Driver - Inside</description>
 							<scene></scene>
@@ -26326,8 +26259,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-349">
-						<masterclipid>masterclip-111</masterclipid>
+					<clipitem id="clipitem-129">
+						<masterclipid>masterclip-35</masterclipid>
 						<name>006V_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6932</duration>
@@ -26342,7 +26275,7 @@
 						<pproTicksIn>35513045568000</pproTicksIn>
 						<pproTicksOut>35947423512000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-111"/>
+						<file id="file-35"/>
 						<logginginfo>
 							<description>3/4 MS Dani - Inside</description>
 							<scene></scene>
@@ -26363,8 +26296,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-350">
-						<masterclipid>masterclip-123</masterclipid>
+					<clipitem id="clipitem-130">
+						<masterclipid>masterclip-47</masterclipid>
 						<name>006K_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>9688</duration>
@@ -26379,7 +26312,7 @@
 						<pproTicksIn>65559285792000</pproTicksIn>
 						<pproTicksOut>65834744976000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-123"/>
+						<file id="file-47"/>
 						<logginginfo>
 							<description>OTS Dani on Brains/Convict - Inside</description>
 							<scene></scene>
@@ -26400,8 +26333,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-351">
-						<masterclipid>masterclip-116</masterclipid>
+					<clipitem id="clipitem-131">
+						<masterclipid>masterclip-40</masterclipid>
 						<name>006C_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7772</duration>
@@ -26416,7 +26349,7 @@
 						<pproTicksIn>39009258288000</pproTicksIn>
 						<pproTicksOut>39560176656000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-116"/>
+						<file id="file-40"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Brains Inside</description>
 							<scene></scene>
@@ -26437,8 +26370,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-352">
-						<masterclipid>masterclip-129</masterclipid>
+					<clipitem id="clipitem-132">
+						<masterclipid>masterclip-53</masterclipid>
 						<name>006L_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7300</duration>
@@ -26453,7 +26386,7 @@
 						<pproTicksIn>26253379152000</pproTicksIn>
 						<pproTicksOut>26772513768000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-129"/>
+						<file id="file-53"/>
 						<logginginfo>
 							<description>Dash MS on Driver/Brains/Convict - Inside</description>
 							<scene></scene>
@@ -26474,8 +26407,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-353">
-						<masterclipid>masterclip-119</masterclipid>
+					<clipitem id="clipitem-133">
+						<masterclipid>masterclip-43</masterclipid>
 						<name>006Q_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10300</duration>
@@ -26490,7 +26423,7 @@
 						<pproTicksIn>67773553848000</pproTicksIn>
 						<pproTicksOut>68207931792000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-119"/>
+						<file id="file-43"/>
 						<logginginfo>
 							<description>3/4 MS Brains/Driver - Inside</description>
 							<scene></scene>
@@ -26511,8 +26444,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-354">
-						<masterclipid>masterclip-128</masterclipid>
+					<clipitem id="clipitem-134">
+						<masterclipid>masterclip-52</masterclipid>
 						<name>006G_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6680</duration>
@@ -26527,7 +26460,7 @@
 						<pproTicksIn>41159958840000</pproTicksIn>
 						<pproTicksOut>41371850520000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-128"/>
+						<file id="file-52"/>
 						<logginginfo>
 							<description>3/4 MS Dani/Convict - Inside</description>
 							<scene></scene>
@@ -26548,8 +26481,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-355">
-						<masterclipid>masterclip-119</masterclipid>
+					<clipitem id="clipitem-135">
+						<masterclipid>masterclip-43</masterclipid>
 						<name>006Q_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10300</duration>
@@ -26564,7 +26497,7 @@
 						<pproTicksIn>68525769312000</pproTicksIn>
 						<pproTicksOut>68758850160000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-119"/>
+						<file id="file-43"/>
 						<logginginfo>
 							<description>3/4 MS Brains/Driver - Inside</description>
 							<scene></scene>
@@ -26585,8 +26518,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-356">
-						<masterclipid>masterclip-113</masterclipid>
+					<clipitem id="clipitem-136">
+						<masterclipid>masterclip-37</masterclipid>
 						<name>006D_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6856</duration>
@@ -26601,7 +26534,7 @@
 						<pproTicksIn>37218773592000</pproTicksIn>
 						<pproTicksOut>37557800280000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-113"/>
+						<file id="file-37"/>
 						<logginginfo>
 							<description>3/4 MS Brains Inside</description>
 							<scene></scene>
@@ -26622,8 +26555,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-357">
-						<masterclipid>masterclip-129</masterclipid>
+					<clipitem id="clipitem-137">
+						<masterclipid>masterclip-53</masterclipid>
 						<name>006L_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7300</duration>
@@ -26638,7 +26571,7 @@
 						<pproTicksIn>28202782608000</pproTicksIn>
 						<pproTicksOut>29029160160000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-129"/>
+						<file id="file-53"/>
 						<logginginfo>
 							<description>Dash MS on Driver/Brains/Convict - Inside</description>
 							<scene></scene>
@@ -26659,8 +26592,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-358">
-						<masterclipid>masterclip-111</masterclipid>
+					<clipitem id="clipitem-138">
+						<masterclipid>masterclip-35</masterclipid>
 						<name>006V_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6932</duration>
@@ -26675,7 +26608,7 @@
 						<pproTicksIn>37017476496000</pproTicksIn>
 						<pproTicksOut>37218773592000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-111"/>
+						<file id="file-35"/>
 						<logginginfo>
 							<description>3/4 MS Dani - Inside</description>
 							<scene></scene>
@@ -26696,90 +26629,23 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-359">
-						<masterclipid>masterclip-111</masterclipid>
+					<clipitem id="clipitem-139">
+						<masterclipid>masterclip-35</masterclipid>
 						<name>006V_01_A</name>
 						<enabled>TRUE</enabled>
-						<duration>3466</duration>
+						<duration>6932</duration>
 						<rate>
 							<timebase>24</timebase>
 							<ntsc>TRUE</ntsc>
 						</rate>
 						<start>9064</start>
 						<end>9075</end>
-						<in>1756</in>
-						<out>1767</out>
+						<in>3513</in>
+						<out>3524</out>
 						<pproTicksIn>37218773592000</pproTicksIn>
-						<pproTicksOut>37451854440000</pproTicksOut>
+						<pproTicksOut>37335314016000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-111"/>
-						<filter>
-							<effect>
-								<name>Time Remap</name>
-								<effectid>timeremap</effectid>
-								<effectcategory>motion</effectcategory>
-								<effecttype>motion</effecttype>
-								<mediatype>video</mediatype>
-								<parameter authoringApp="PremierePro">
-									<parameterid>variablespeed</parameterid>
-									<name>variablespeed</name>
-									<valuemin>0</valuemin>
-									<valuemax>1</valuemax>
-									<value>0</value>
-								</parameter>
-								<parameter authoringApp="PremierePro">
-									<parameterid>speed</parameterid>
-									<name>speed</name>
-									<valuemin>-100000</valuemin>
-									<valuemax>100000</valuemax>
-									<value>200</value>
-								</parameter>
-								<parameter authoringApp="PremierePro">
-									<parameterid>reverse</parameterid>
-									<name>reverse</name>
-									<value>FALSE</value>
-								</parameter>
-								<parameter authoringApp="PremierePro">
-									<parameterid>frameblending</parameterid>
-									<name>frameblending</name>
-									<value>FALSE</value>
-								</parameter>
-								<parameter authoringApp="PremierePro">
-									<parameterid>graphdict</parameterid>
-									<name>graphdict</name>
-									<valuemin>0</valuemin>
-									<valuemax>6932</valuemax>
-									<value>0</value>
-									<keyframe>
-										<when>0</when>
-										<value>0</value>
-										<speedvirtualkf>TRUE</speedvirtualkf>
-										<speedkfstart>TRUE</speedkfstart>
-									</keyframe>
-									<keyframe>
-										<when>1756</when>
-										<value>3512</value>
-										<speedvirtualkf>TRUE</speedvirtualkf>
-										<speedkfin>TRUE</speedkfin>
-									</keyframe>
-									<keyframe>
-										<when>1767</when>
-										<value>3534</value>
-										<speedvirtualkf>TRUE</speedvirtualkf>
-										<speedkfout>TRUE</speedkfout>
-									</keyframe>
-									<keyframe>
-										<when>3466</when>
-										<value>6932</value>
-										<speedvirtualkf>TRUE</speedvirtualkf>
-										<speedkfend>TRUE</speedkfend>
-									</keyframe>
-									<interpolation>
-										<name>FCPCurve</name>
-									</interpolation>
-								</parameter>
-							</effect>
-						</filter>
+						<file id="file-35"/>
 						<logginginfo>
 							<description>3/4 MS Dani - Inside</description>
 							<scene></scene>
@@ -26800,8 +26666,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-360">
-						<masterclipid>masterclip-111</masterclipid>
+					<clipitem id="clipitem-140">
+						<masterclipid>masterclip-35</masterclipid>
 						<name>006V_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6932</duration>
@@ -26816,7 +26682,7 @@
 						<pproTicksIn>37441259856000</pproTicksIn>
 						<pproTicksOut>37557800280000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-111"/>
+						<file id="file-35"/>
 						<logginginfo>
 							<description>3/4 MS Dani - Inside</description>
 							<scene></scene>
@@ -26837,8 +26703,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-361">
-						<masterclipid>masterclip-129</masterclipid>
+					<clipitem id="clipitem-141">
+						<masterclipid>masterclip-53</masterclipid>
 						<name>006L_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7300</duration>
@@ -26853,7 +26719,7 @@
 						<pproTicksIn>40693797144000</pproTicksIn>
 						<pproTicksOut>41001040080000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-129"/>
+						<file id="file-53"/>
 						<logginginfo>
 							<description>Dash MS on Driver/Brains/Convict - Inside</description>
 							<scene></scene>
@@ -26874,8 +26740,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-362">
-						<masterclipid>masterclip-122</masterclipid>
+					<clipitem id="clipitem-142">
+						<masterclipid>masterclip-46</masterclipid>
 						<name>006R_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10584</duration>
@@ -26890,7 +26756,7 @@
 						<pproTicksIn>55250755560000</pproTicksIn>
 						<pproTicksOut>55738106424000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-122"/>
+						<file id="file-46"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Security - Inside</description>
 							<scene></scene>
@@ -26911,8 +26777,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-363">
-						<masterclipid>masterclip-132</masterclipid>
+					<clipitem id="clipitem-143">
+						<masterclipid>masterclip-56</masterclipid>
 						<name>006N_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>3716</duration>
@@ -26929,7 +26795,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-132">
+						<file id="file-56">
 							<name>A003C017_190107NG.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_3/A003CR3G/Clip/A003C017_190107NG/A003C017_190107NG.mov</pathurl>
 							<rate>
@@ -27313,8 +27179,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-364">
-						<masterclipid>masterclip-119</masterclipid>
+					<clipitem id="clipitem-144">
+						<masterclipid>masterclip-43</masterclipid>
 						<name>006Q_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10300</duration>
@@ -27329,7 +27195,7 @@
 						<pproTicksIn>71163820728000</pproTicksIn>
 						<pproTicksOut>71566414920000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-119"/>
+						<file id="file-43"/>
 						<logginginfo>
 							<description>3/4 MS Brains/Driver - Inside</description>
 							<scene></scene>
@@ -27350,8 +27216,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-365">
-						<masterclipid>masterclip-118</masterclipid>
+					<clipitem id="clipitem-145">
+						<masterclipid>masterclip-42</masterclipid>
 						<name>006G_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>11544</duration>
@@ -27366,7 +27232,7 @@
 						<pproTicksIn>62635180608000</pproTicksIn>
 						<pproTicksOut>62910639792000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-118"/>
+						<file id="file-42"/>
 						<logginginfo>
 							<description>3/4 MS Dani/Convict - Inside</description>
 							<scene></scene>
@@ -27387,8 +27253,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-366">
-						<masterclipid>masterclip-122</masterclipid>
+					<clipitem id="clipitem-146">
+						<masterclipid>masterclip-46</masterclipid>
 						<name>006R_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10584</duration>
@@ -27403,7 +27269,7 @@
 						<pproTicksIn>80137433376000</pproTicksIn>
 						<pproTicksOut>81557107632000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-122"/>
+						<file id="file-46"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Security - Inside</description>
 							<scene></scene>
@@ -27424,8 +27290,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-367">
-						<masterclipid>masterclip-111</masterclipid>
+					<clipitem id="clipitem-147">
+						<masterclipid>masterclip-35</masterclipid>
 						<name>006V_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6932</duration>
@@ -27440,7 +27306,7 @@
 						<pproTicksIn>44348928624000</pproTicksIn>
 						<pproTicksOut>44762117400000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-111"/>
+						<file id="file-35"/>
 						<logginginfo>
 							<description>3/4 MS Dani - Inside</description>
 							<scene></scene>
@@ -27461,8 +27327,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-368">
-						<masterclipid>masterclip-127</masterclipid>
+					<clipitem id="clipitem-148">
+						<masterclipid>masterclip-51</masterclipid>
 						<name>006J_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>8580</duration>
@@ -27477,7 +27343,7 @@
 						<pproTicksIn>63196693560000</pproTicksIn>
 						<pproTicksOut>63472152744000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-127"/>
+						<file id="file-51"/>
 						<logginginfo>
 							<description>CU Convict/Dani's Hands - Inside</description>
 							<scene></scene>
@@ -27498,8 +27364,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-369">
-						<masterclipid>masterclip-112</masterclipid>
+					<clipitem id="clipitem-149">
+						<masterclipid>masterclip-36</masterclipid>
 						<name>006H_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>8156</duration>
@@ -27514,7 +27380,7 @@
 						<pproTicksIn>57772266552000</pproTicksIn>
 						<pproTicksOut>58312590336000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-112"/>
+						<file id="file-36"/>
 						<logginginfo>
 							<description>3/4 MS Convict - Inside</description>
 							<scene></scene>
@@ -27535,8 +27401,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-370">
-						<masterclipid>masterclip-115</masterclipid>
+					<clipitem id="clipitem-150">
+						<masterclipid>masterclip-39</masterclipid>
 						<name>006R_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10080</duration>
@@ -27551,7 +27417,7 @@
 						<pproTicksIn>50292490248000</pproTicksIn>
 						<pproTicksOut>50620922352000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-115"/>
+						<file id="file-39"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Security - Inside</description>
 							<scene></scene>
@@ -27572,8 +27438,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-371">
-						<masterclipid>masterclip-118</masterclipid>
+					<clipitem id="clipitem-151">
+						<masterclipid>masterclip-42</masterclipid>
 						<name>006G_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>11544</duration>
@@ -27588,7 +27454,7 @@
 						<pproTicksIn>76778950248000</pproTicksIn>
 						<pproTicksOut>77054409432000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-118"/>
+						<file id="file-42"/>
 						<logginginfo>
 							<description>3/4 MS Dani/Convict - Inside</description>
 							<scene></scene>
@@ -27609,8 +27475,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-372">
-						<masterclipid>masterclip-119</masterclipid>
+					<clipitem id="clipitem-152">
+						<masterclipid>masterclip-43</masterclipid>
 						<name>006Q_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10300</duration>
@@ -27625,7 +27491,7 @@
 						<pproTicksIn>74829546792000</pproTicksIn>
 						<pproTicksOut>75200357232000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-119"/>
+						<file id="file-43"/>
 						<logginginfo>
 							<description>3/4 MS Brains/Driver - Inside</description>
 							<scene></scene>
@@ -27646,8 +27512,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-373">
-						<masterclipid>masterclip-120</masterclipid>
+					<clipitem id="clipitem-153">
+						<masterclipid>masterclip-44</masterclipid>
 						<name>006U_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7924</duration>
@@ -27662,7 +27528,7 @@
 						<pproTicksIn>59107184136000</pproTicksIn>
 						<pproTicksOut>59530967496000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-120"/>
+						<file id="file-44"/>
 						<logginginfo>
 							<description>MS Convict/Dani/Driver - Inside</description>
 							<scene></scene>
@@ -27683,8 +27549,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-374">
-						<masterclipid>masterclip-129</masterclipid>
+					<clipitem id="clipitem-154">
+						<masterclipid>masterclip-53</masterclipid>
 						<name>006L_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7300</duration>
@@ -27699,7 +27565,7 @@
 						<pproTicksIn>44921036160000</pproTicksIn>
 						<pproTicksOut>45927521640000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-129"/>
+						<file id="file-53"/>
 						<logginginfo>
 							<description>Dash MS on Driver/Brains/Convict - Inside</description>
 							<scene></scene>
@@ -27720,8 +27586,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-375">
-						<masterclipid>masterclip-133</masterclipid>
+					<clipitem id="clipitem-155">
+						<masterclipid>masterclip-57</masterclipid>
 						<name>006C_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6396</duration>
@@ -27738,7 +27604,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-133">
+						<file id="file-57">
 							<name>A001C011_190107DA.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_1/A001CMXQ/Clip/A001C011_190107DA/A001C011_190107DA.mov</pathurl>
 							<rate>
@@ -28162,8 +28028,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-376">
-						<masterclipid>masterclip-118</masterclipid>
+					<clipitem id="clipitem-156">
+						<masterclipid>masterclip-42</masterclipid>
 						<name>006G_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>11544</duration>
@@ -28178,7 +28044,7 @@
 						<pproTicksIn>97035794856000</pproTicksIn>
 						<pproTicksOut>98858063304000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-118"/>
+						<file id="file-42"/>
 						<logginginfo>
 							<description>3/4 MS Dani/Convict - Inside</description>
 							<scene></scene>
@@ -28199,8 +28065,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-377">
-						<masterclipid>masterclip-129</masterclipid>
+					<clipitem id="clipitem-157">
+						<masterclipid>masterclip-53</masterclipid>
 						<name>006L_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7300</duration>
@@ -28215,7 +28081,7 @@
 						<pproTicksIn>49487301864000</pproTicksIn>
 						<pproTicksOut>50059409400000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-129"/>
+						<file id="file-53"/>
 						<logginginfo>
 							<description>Dash MS on Driver/Brains/Convict - Inside</description>
 							<scene></scene>
@@ -28236,8 +28102,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-378">
-						<masterclipid>masterclip-116</masterclipid>
+					<clipitem id="clipitem-158">
+						<masterclipid>masterclip-40</masterclipid>
 						<name>006C_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7772</duration>
@@ -28252,7 +28118,7 @@
 						<pproTicksIn>63111936888000</pproTicksIn>
 						<pproTicksOut>63779395680000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-116"/>
+						<file id="file-40"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Brains Inside</description>
 							<scene></scene>
@@ -28273,8 +28139,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-379">
-						<masterclipid>masterclip-134</masterclipid>
+					<clipitem id="clipitem-159">
+						<masterclipid>masterclip-58</masterclipid>
 						<name>X006_01_A_FuelGaugeInsert</name>
 						<enabled>TRUE</enabled>
 						<duration>580</duration>
@@ -28291,7 +28157,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-134">
+						<file id="file-58">
 							<name>A010C010_190109TA.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_003/TLJ_10/A010CE7E/Clip/A010C010_190109TA/A010C010_190109TA.mov</pathurl>
 							<rate>
@@ -28685,8 +28551,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-380">
-						<masterclipid>masterclip-121</masterclipid>
+					<clipitem id="clipitem-160">
+						<masterclipid>masterclip-45</masterclipid>
 						<name>006D_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6052</duration>
@@ -28701,7 +28567,7 @@
 						<pproTicksIn>48279519288000</pproTicksIn>
 						<pproTicksOut>48629140560000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-121"/>
+						<file id="file-45"/>
 						<logginginfo>
 							<description>3/4 MS Brains Inside</description>
 							<scene></scene>
@@ -28722,8 +28588,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-381">
-						<masterclipid>masterclip-122</masterclipid>
+					<clipitem id="clipitem-161">
+						<masterclipid>masterclip-46</masterclipid>
 						<name>006R_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10584</duration>
@@ -28738,7 +28604,7 @@
 						<pproTicksIn>89895045240000</pproTicksIn>
 						<pproTicksOut>90636666120000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-122"/>
+						<file id="file-46"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Security - Inside</description>
 							<scene></scene>
@@ -28759,8 +28625,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-382">
-						<masterclipid>masterclip-113</masterclipid>
+					<clipitem id="clipitem-162">
+						<masterclipid>masterclip-37</masterclipid>
 						<name>006D_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6856</duration>
@@ -28775,7 +28641,7 @@
 						<pproTicksIn>54212486328000</pproTicksIn>
 						<pproTicksOut>54509134680000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-113"/>
+						<file id="file-37"/>
 						<logginginfo>
 							<description>3/4 MS Brains Inside</description>
 							<scene></scene>
@@ -28796,8 +28662,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-383">
-						<masterclipid>masterclip-118</masterclipid>
+					<clipitem id="clipitem-163">
+						<masterclipid>masterclip-42</masterclipid>
 						<name>006G_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>11544</duration>
@@ -28812,7 +28678,7 @@
 						<pproTicksIn>100860439680000</pproTicksIn>
 						<pproTicksOut>101125304280000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-118"/>
+						<file id="file-42"/>
 						<logginginfo>
 							<description>3/4 MS Dani/Convict - Inside</description>
 							<scene></scene>
@@ -28833,8 +28699,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-384">
-						<masterclipid>masterclip-111</masterclipid>
+					<clipitem id="clipitem-164">
+						<masterclipid>masterclip-35</masterclipid>
 						<name>006V_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6932</duration>
@@ -28849,7 +28715,7 @@
 						<pproTicksIn>53417892528000</pproTicksIn>
 						<pproTicksOut>53693351712000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-111"/>
+						<file id="file-35"/>
 						<logginginfo>
 							<description>3/4 MS Dani - Inside</description>
 							<scene></scene>
@@ -28870,8 +28736,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-385">
-						<masterclipid>masterclip-119</masterclipid>
+					<clipitem id="clipitem-165">
+						<masterclipid>masterclip-43</masterclipid>
 						<name>006Q_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10300</duration>
@@ -28886,7 +28752,7 @@
 						<pproTicksIn>82648349784000</pproTicksIn>
 						<pproTicksOut>83167484400000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-119"/>
+						<file id="file-43"/>
 						<logginginfo>
 							<description>3/4 MS Brains/Driver - Inside</description>
 							<scene></scene>
@@ -28907,8 +28773,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-386">
-						<masterclipid>masterclip-133</masterclipid>
+					<clipitem id="clipitem-166">
+						<masterclipid>masterclip-57</masterclipid>
 						<name>006C_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6396</duration>
@@ -28923,7 +28789,7 @@
 						<pproTicksIn>53884054224000</pproTicksIn>
 						<pproTicksOut>54477350928000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-133"/>
+						<file id="file-57"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Brains Inside</description>
 							<scene></scene>
@@ -28944,8 +28810,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-387">
-						<masterclipid>masterclip-119</masterclipid>
+					<clipitem id="clipitem-167">
+						<masterclipid>masterclip-43</masterclipid>
 						<name>006Q_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10300</duration>
@@ -28960,7 +28826,7 @@
 						<pproTicksIn>83485321920000</pproTicksIn>
 						<pproTicksOut>83972672784000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-119"/>
+						<file id="file-43"/>
 						<logginginfo>
 							<description>3/4 MS Brains/Driver - Inside</description>
 							<scene></scene>
@@ -28981,8 +28847,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-388">
-						<masterclipid>masterclip-133</masterclipid>
+					<clipitem id="clipitem-168">
+						<masterclipid>masterclip-57</masterclipid>
 						<name>006C_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6396</duration>
@@ -28997,7 +28863,7 @@
 						<pproTicksIn>54742215528000</pproTicksIn>
 						<pproTicksOut>55494430992000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-133"/>
+						<file id="file-57"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Brains Inside</description>
 							<scene></scene>
@@ -29018,8 +28884,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-389">
-						<masterclipid>masterclip-115</masterclipid>
+					<clipitem id="clipitem-169">
+						<masterclipid>masterclip-39</masterclipid>
 						<name>006R_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10080</duration>
@@ -29034,7 +28900,7 @@
 						<pproTicksIn>88613100576000</pproTicksIn>
 						<pproTicksOut>89121640608000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-115"/>
+						<file id="file-39"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Security - Inside</description>
 							<scene></scene>
@@ -29055,8 +28921,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-390">
-						<masterclipid>masterclip-113</masterclipid>
+					<clipitem id="clipitem-170">
+						<masterclipid>masterclip-37</masterclipid>
 						<name>006D_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6856</duration>
@@ -29071,7 +28937,7 @@
 						<pproTicksIn>59838210432000</pproTicksIn>
 						<pproTicksOut>60632804232000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-113"/>
+						<file id="file-37"/>
 						<logginginfo>
 							<description>3/4 MS Brains Inside</description>
 							<scene></scene>
@@ -29092,8 +28958,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-391">
-						<masterclipid>masterclip-135</masterclipid>
+					<clipitem id="clipitem-171">
+						<masterclipid>masterclip-59</masterclipid>
 						<name>006Q_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6844</duration>
@@ -29110,7 +28976,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-135">
+						<file id="file-59">
 							<name>A003C021_190107CA.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_3/A003CR3G/Clip/A003C021_190107CA/A003C021_190107CA.mov</pathurl>
 							<rate>
@@ -29544,8 +29410,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-392">
-						<masterclipid>masterclip-129</masterclipid>
+					<clipitem id="clipitem-172">
+						<masterclipid>masterclip-53</masterclipid>
 						<name>006L_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7300</duration>
@@ -29560,7 +29426,7 @@
 						<pproTicksIn>66608149608000</pproTicksIn>
 						<pproTicksOut>67000149216000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-129"/>
+						<file id="file-53"/>
 						<logginginfo>
 							<description>Dash MS on Driver/Brains/Convict - Inside</description>
 							<scene></scene>
@@ -29581,8 +29447,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-393">
-						<masterclipid>masterclip-119</masterclipid>
+					<clipitem id="clipitem-173">
+						<masterclipid>masterclip-43</masterclipid>
 						<name>006Q_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10300</duration>
@@ -29597,7 +29463,7 @@
 						<pproTicksIn>95785633944000</pproTicksIn>
 						<pproTicksOut>96039903960000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-119"/>
+						<file id="file-43"/>
 						<logginginfo>
 							<description>3/4 MS Brains/Driver - Inside</description>
 							<scene></scene>
@@ -29618,8 +29484,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-394">
-						<masterclipid>masterclip-133</masterclipid>
+					<clipitem id="clipitem-174">
+						<masterclipid>masterclip-57</masterclipid>
 						<name>006C_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6396</duration>
@@ -29634,7 +29500,7 @@
 						<pproTicksIn>57645131544000</pproTicksIn>
 						<pproTicksOut>57941779896000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-133"/>
+						<file id="file-57"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Brains Inside</description>
 							<scene></scene>
@@ -29655,8 +29521,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-395">
-						<masterclipid>masterclip-128</masterclipid>
+					<clipitem id="clipitem-175">
+						<masterclipid>masterclip-52</masterclipid>
 						<name>006G_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6680</duration>
@@ -29671,7 +29537,7 @@
 						<pproTicksIn>57359077776000</pproTicksIn>
 						<pproTicksOut>57676915296000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-128"/>
+						<file id="file-52"/>
 						<logginginfo>
 							<description>3/4 MS Dani/Convict - Inside</description>
 							<scene></scene>
@@ -29692,8 +29558,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-396">
-						<masterclipid>masterclip-124</masterclipid>
+					<clipitem id="clipitem-176">
+						<masterclipid>masterclip-48</masterclipid>
 						<name>006U_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>8004</duration>
@@ -29708,7 +29574,7 @@
 						<pproTicksIn>74140898832000</pproTicksIn>
 						<pproTicksOut>74299817592000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-124"/>
+						<file id="file-48"/>
 						<logginginfo>
 							<description>MS Convict/Dani/Driver - Inside</description>
 							<scene></scene>
@@ -29729,8 +29595,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-397">
-						<masterclipid>masterclip-122</masterclipid>
+					<clipitem id="clipitem-177">
+						<masterclipid>masterclip-46</masterclipid>
 						<name>006R_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10584</duration>
@@ -29745,7 +29611,7 @@
 						<pproTicksIn>97597307808000</pproTicksIn>
 						<pproTicksOut>98317739520000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-122"/>
+						<file id="file-46"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Security - Inside</description>
 							<scene></scene>
@@ -29766,8 +29632,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-398">
-						<masterclipid>masterclip-129</masterclipid>
+					<clipitem id="clipitem-178">
+						<masterclipid>masterclip-53</masterclipid>
 						<name>006L_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7300</duration>
@@ -29782,7 +29648,7 @@
 						<pproTicksIn>68292688464000</pproTicksIn>
 						<pproTicksOut>68928363504000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-129"/>
+						<file id="file-53"/>
 						<logginginfo>
 							<description>Dash MS on Driver/Brains/Convict - Inside</description>
 							<scene></scene>
@@ -29803,8 +29669,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-399">
-						<masterclipid>masterclip-119</masterclipid>
+					<clipitem id="clipitem-179">
+						<masterclipid>masterclip-43</masterclipid>
 						<name>006Q_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10300</duration>
@@ -29819,7 +29685,7 @@
 						<pproTicksIn>98190604512000</pproTicksIn>
 						<pproTicksOut>98815684968000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-119"/>
+						<file id="file-43"/>
 						<logginginfo>
 							<description>3/4 MS Brains/Driver - Inside</description>
 							<scene></scene>
@@ -29840,8 +29706,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-400">
-						<masterclipid>masterclip-136</masterclipid>
+					<clipitem id="clipitem-180">
+						<masterclipid>masterclip-60</masterclipid>
 						<name>006A_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1256</duration>
@@ -29858,7 +29724,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-136">
+						<file id="file-60">
 							<name>A001C005_190107QM.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_1/A001CMXQ/Clip/A001C005_190107QM/A001C005_190107QM.mov</pathurl>
 							<rate>
@@ -30282,8 +30148,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-401">
-						<masterclipid>masterclip-115</masterclipid>
+					<clipitem id="clipitem-181">
+						<masterclipid>masterclip-39</masterclipid>
 						<name>006R_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10080</duration>
@@ -30298,7 +30164,7 @@
 						<pproTicksIn>95467796424000</pproTicksIn>
 						<pproTicksOut>97258281120000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-115"/>
+						<file id="file-39"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Security - Inside</description>
 							<scene></scene>
@@ -30319,8 +30185,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-402">
-						<masterclipid>masterclip-137</masterclipid>
+					<clipitem id="clipitem-182">
+						<masterclipid>masterclip-61</masterclipid>
 						<name>006H_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6764</duration>
@@ -30337,7 +30203,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-137">
+						<file id="file-61">
 							<name>A002C003_1901072J.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_2/A002CPK2/Clip/A002C003_1901072J/A002C003_1901072J.mov</pathurl>
 							<rate>
@@ -30761,8 +30627,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-403">
-						<masterclipid>masterclip-113</masterclipid>
+					<clipitem id="clipitem-183">
+						<masterclipid>masterclip-37</masterclipid>
 						<name>006D_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6856</duration>
@@ -30777,7 +30643,7 @@
 						<pproTicksIn>64521016560000</pproTicksIn>
 						<pproTicksOut>64913016168000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-113"/>
+						<file id="file-37"/>
 						<logginginfo>
 							<description>3/4 MS Brains Inside</description>
 							<scene></scene>
@@ -30798,8 +30664,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-404">
-						<masterclipid>masterclip-138</masterclipid>
+					<clipitem id="clipitem-184">
+						<masterclipid>masterclip-62</masterclipid>
 						<name>006A_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1088</duration>
@@ -30816,7 +30682,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-138">
+						<file id="file-62">
 							<name>A001C006_190107GK.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_1/A001CMXQ/Clip/A001C006_190107GK/A001C006_190107GK.mov</pathurl>
 							<rate>
@@ -31240,8 +31106,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-405">
-						<masterclipid>masterclip-122</masterclipid>
+					<clipitem id="clipitem-185">
+						<masterclipid>masterclip-46</masterclipid>
 						<name>006R_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10584</duration>
@@ -31256,7 +31122,7 @@
 						<pproTicksIn>102778059384000</pproTicksIn>
 						<pproTicksOut>103244221080000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-122"/>
+						<file id="file-46"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Security - Inside</description>
 							<scene></scene>
@@ -31277,8 +31143,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-406">
-						<masterclipid>masterclip-138</masterclipid>
+					<clipitem id="clipitem-186">
+						<masterclipid>masterclip-62</masterclipid>
 						<name>006A_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1088</duration>
@@ -31293,7 +31159,7 @@
 						<pproTicksIn>7956532584000</pproTicksIn>
 						<pproTicksOut>8507450952000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-138"/>
+						<file id="file-62"/>
 						<logginginfo>
 							<description>OTS Security Guard on Driver, Outside</description>
 							<scene></scene>
@@ -31314,8 +31180,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-407">
-						<masterclipid>masterclip-111</masterclipid>
+					<clipitem id="clipitem-187">
+						<masterclipid>masterclip-35</masterclipid>
 						<name>006V_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6932</duration>
@@ -31330,7 +31196,7 @@
 						<pproTicksIn>61861775976000</pproTicksIn>
 						<pproTicksOut>62147829744000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-111"/>
+						<file id="file-35"/>
 						<logginginfo>
 							<description>3/4 MS Dani - Inside</description>
 							<scene></scene>
@@ -31351,8 +31217,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-408">
-						<masterclipid>masterclip-115</masterclipid>
+					<clipitem id="clipitem-188">
+						<masterclipid>masterclip-39</masterclipid>
 						<name>006R_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10080</duration>
@@ -31367,7 +31233,7 @@
 						<pproTicksIn>99303035832000</pproTicksIn>
 						<pproTicksOut>99737413776000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-115"/>
+						<file id="file-39"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Security - Inside</description>
 							<scene></scene>
@@ -31388,8 +31254,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-409">
-						<masterclipid>masterclip-121</masterclipid>
+					<clipitem id="clipitem-189">
+						<masterclipid>masterclip-45</masterclipid>
 						<name>006D_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6052</duration>
@@ -31404,7 +31270,7 @@
 						<pproTicksIn>59160157056000</pproTicksIn>
 						<pproTicksOut>59552156664000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-121"/>
+						<file id="file-45"/>
 						<logginginfo>
 							<description>3/4 MS Brains Inside</description>
 							<scene></scene>
@@ -31425,8 +31291,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-410">
-						<masterclipid>masterclip-122</masterclipid>
+					<clipitem id="clipitem-190">
+						<masterclipid>masterclip-46</masterclipid>
 						<name>006R_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10584</duration>
@@ -31441,7 +31307,7 @@
 						<pproTicksIn>104112976968000</pproTicksIn>
 						<pproTicksOut>104452003656000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-122"/>
+						<file id="file-46"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Security - Inside</description>
 							<scene></scene>
@@ -31462,8 +31328,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-411">
-						<masterclipid>masterclip-137</masterclipid>
+					<clipitem id="clipitem-191">
+						<masterclipid>masterclip-61</masterclipid>
 						<name>006H_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6764</duration>
@@ -31478,7 +31344,7 @@
 						<pproTicksIn>63037774800000</pproTicksIn>
 						<pproTicksOut>63334423152000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-137"/>
+						<file id="file-61"/>
 						<logginginfo>
 							<description>3/4 MS Convict - Inside</description>
 							<scene></scene>
@@ -31499,8 +31365,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-412">
-						<masterclipid>masterclip-111</masterclipid>
+					<clipitem id="clipitem-192">
+						<masterclipid>masterclip-35</masterclipid>
 						<name>006V_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6932</duration>
@@ -31515,7 +31381,7 @@
 						<pproTicksIn>68112580536000</pproTicksIn>
 						<pproTicksOut>68441012640000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-111"/>
+						<file id="file-35"/>
 						<logginginfo>
 							<description>3/4 MS Dani - Inside</description>
 							<scene></scene>
@@ -31536,8 +31402,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-413">
-						<masterclipid>masterclip-113</masterclipid>
+					<clipitem id="clipitem-193">
+						<masterclipid>masterclip-37</masterclipid>
 						<name>006D_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6856</duration>
@@ -31552,7 +31418,7 @@
 						<pproTicksIn>70093767744000</pproTicksIn>
 						<pproTicksOut>71863063272000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-113"/>
+						<file id="file-37"/>
 						<logginginfo>
 							<description>3/4 MS Brains Inside</description>
 							<scene></scene>
@@ -31573,8 +31439,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-414">
-						<masterclipid>masterclip-122</masterclipid>
+					<clipitem id="clipitem-194">
+						<masterclipid>masterclip-46</masterclipid>
 						<name>006R_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>10584</duration>
@@ -31589,7 +31455,7 @@
 						<pproTicksIn>105055894944000</pproTicksIn>
 						<pproTicksOut>105786921240000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-122"/>
+						<file id="file-46"/>
 						<logginginfo>
 							<description>3/4 MS Driver/Security - Inside</description>
 							<scene></scene>
@@ -31610,8 +31476,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-415">
-						<masterclipid>masterclip-139</masterclipid>
+					<clipitem id="clipitem-195">
+						<masterclipid>masterclip-63</masterclipid>
 						<name>006E_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>2016</duration>
@@ -31628,7 +31494,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-139">
+						<file id="file-63">
 							<name>A001C015_190107Z3.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_1/A001CMXQ/Clip/A001C015_190107Z3/A001C015_190107Z3.mov</pathurl>
 							<rate>
@@ -32052,8 +31918,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-416">
-						<masterclipid>masterclip-137</masterclipid>
+					<clipitem id="clipitem-196">
+						<masterclipid>masterclip-61</masterclipid>
 						<name>006H_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6764</duration>
@@ -32068,7 +31934,7 @@
 						<pproTicksIn>68981336424000</pproTicksIn>
 						<pproTicksOut>69659389800000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-137"/>
+						<file id="file-61"/>
 						<logginginfo>
 							<description>3/4 MS Convict - Inside</description>
 							<scene></scene>
@@ -32089,8 +31955,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-417">
-						<masterclipid>masterclip-111</masterclipid>
+					<clipitem id="clipitem-197">
+						<masterclipid>masterclip-35</masterclipid>
 						<name>006V_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6932</duration>
@@ -32105,7 +31971,7 @@
 						<pproTicksIn>69511065624000</pproTicksIn>
 						<pproTicksOut>69934848984000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-111"/>
+						<file id="file-35"/>
 						<logginginfo>
 							<description>3/4 MS Dani - Inside</description>
 							<scene></scene>
@@ -32126,8 +31992,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-418">
-						<masterclipid>masterclip-140</masterclipid>
+					<clipitem id="clipitem-198">
+						<masterclipid>masterclip-64</masterclipid>
 						<name>006X_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>952</duration>
@@ -32144,7 +32010,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-140">
+						<file id="file-64">
 							<name>A005C004_19010775.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_5/A005CLAO/Clip/A005C004_19010775/A005C004_19010775.mov</pathurl>
 							<rate>
@@ -32558,8 +32424,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-419">
-						<masterclipid>masterclip-141</masterclipid>
+					<clipitem id="clipitem-199">
+						<masterclipid>masterclip-65</masterclipid>
 						<name>006T_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>2392</duration>
@@ -32576,7 +32442,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-141">
+						<file id="file-65">
 							<name>A004C006_190107XN.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_4/A004CQFH/Clip/A004C006_190107XN/A004C006_190107XN.mov</pathurl>
 							<rate>
@@ -32990,8 +32856,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-420">
-						<masterclipid>masterclip-142</masterclipid>
+					<clipitem id="clipitem-200">
+						<masterclipid>masterclip-66</masterclipid>
 						<name>006B_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>472</duration>
@@ -33008,7 +32874,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-142">
+						<file id="file-66">
 							<name>A001C009_1901077Z.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_1/A001CMXQ/Clip/A001C009_1901077Z/A001C009_1901077Z.mov</pathurl>
 							<rate>
@@ -33432,8 +33298,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-421">
-						<masterclipid>masterclip-140</masterclipid>
+					<clipitem id="clipitem-201">
+						<masterclipid>masterclip-64</masterclipid>
 						<name>006X_03_A</name>
 						<enabled>TRUE</enabled>
 						<duration>952</duration>
@@ -33448,7 +33314,7 @@
 						<pproTicksIn>5964750792000</pproTicksIn>
 						<pproTicksOut>6208426224000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-140"/>
+						<file id="file-64"/>
 						<logginginfo>
 							<description>WS Security/Driver - Outside</description>
 							<scene></scene>
@@ -33469,8 +33335,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-422">
-						<masterclipid>masterclip-143</masterclipid>
+					<clipitem id="clipitem-202">
+						<masterclipid>masterclip-67</masterclipid>
 						<name>006M_09_A</name>
 						<enabled>TRUE</enabled>
 						<duration>688</duration>
@@ -33487,7 +33353,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-143">
+						<file id="file-67">
 							<name>A003C011_190107GE.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_3/A003CR3G/Clip/A003C011_190107GE/A003C011_190107GE.mov</pathurl>
 							<rate>
@@ -33901,8 +33767,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-423">
-						<masterclipid>masterclip-142</masterclipid>
+					<clipitem id="clipitem-203">
+						<masterclipid>masterclip-66</masterclipid>
 						<name>006B_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>472</duration>
@@ -33917,7 +33783,7 @@
 						<pproTicksIn>3326699376000</pproTicksIn>
 						<pproTicksOut>3856428576000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-142"/>
+						<file id="file-66"/>
 						<logginginfo>
 							<description>OTS Dani on Driver, Outside</description>
 							<scene></scene>
@@ -33938,8 +33804,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-424">
-						<masterclipid>masterclip-144</masterclipid>
+					<clipitem id="clipitem-204">
+						<masterclipid>masterclip-68</masterclipid>
 						<name>006T_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>1556</duration>
@@ -33956,7 +33822,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-144">
+						<file id="file-68">
 							<name>A004C004_190107FX.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_4/A004CQFH/Clip/A004C004_190107FX/A004C004_190107FX.mov</pathurl>
 							<rate>
@@ -34370,8 +34236,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-425">
-						<masterclipid>masterclip-145</masterclipid>
+					<clipitem id="clipitem-205">
+						<masterclipid>masterclip-69</masterclipid>
 						<name>006M_14_A</name>
 						<enabled>TRUE</enabled>
 						<duration>684</duration>
@@ -34388,7 +34254,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-145">
+						<file id="file-69">
 							<name>A003C016_1901077R.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_001/TLJ_3/A003CR3G/Clip/A003C016_1901077R/A003C016_1901077R.mov</pathurl>
 							<rate>
@@ -34802,8 +34668,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-426">
-						<masterclipid>masterclip-146</masterclipid>
+					<clipitem id="clipitem-206">
+						<masterclipid>masterclip-70</masterclipid>
 						<name>007_07_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7568</duration>
@@ -34820,7 +34686,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-146">
+						<file id="file-70">
 							<name>A007C003_190108UE.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_002/TLJ_7/A007C6G0/Clip/A007C003_190108UE/A007C003_190108UE.mov</pathurl>
 							<rate>
@@ -35234,8 +35100,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-427">
-						<masterclipid>masterclip-147</masterclipid>
+					<clipitem id="clipitem-207">
+						<masterclipid>masterclip-71</masterclipid>
 						<name>007A_02_A</name>
 						<enabled>TRUE</enabled>
 						<duration>5920</duration>
@@ -35252,7 +35118,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-147">
+						<file id="file-71">
 							<name>A007C005_190108VI.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_002/TLJ_7/A007C6G0/Clip/A007C005_190108VI/A007C005_190108VI.mov</pathurl>
 							<rate>
@@ -35666,8 +35532,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-428">
-						<masterclipid>masterclip-146</masterclipid>
+					<clipitem id="clipitem-208">
+						<masterclipid>masterclip-70</masterclipid>
 						<name>007_07_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7568</duration>
@@ -35682,7 +35548,7 @@
 						<pproTicksIn>25660082448000</pproTicksIn>
 						<pproTicksOut>30862023192000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-146"/>
+						<file id="file-70"/>
 						<logginginfo>
 							<description>MS Hood Mount - Outside</description>
 							<scene></scene>
@@ -35703,8 +35569,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-429">
-						<masterclipid>masterclip-148</masterclipid>
+					<clipitem id="clipitem-209">
+						<masterclipid>masterclip-72</masterclipid>
 						<name>007A_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>6400</duration>
@@ -35721,7 +35587,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-148">
+						<file id="file-72">
 							<name>A007C004_190108H0.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_002/TLJ_7/A007C6G0/Clip/A007C004_190108H0/A007C004_190108H0.mov</pathurl>
 							<rate>
@@ -36135,8 +36001,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-430">
-						<masterclipid>masterclip-149</masterclipid>
+					<clipitem id="clipitem-210">
+						<masterclipid>masterclip-73</masterclipid>
 						<name>DJI_0051.MOV</name>
 						<enabled>TRUE</enabled>
 						<duration>9014</duration>
@@ -36153,7 +36019,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-149">
+						<file id="file-73">
 							<name>DJI_0051.MOV</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_DRONE/190409/DJI_0051.MOV</pathurl>
 							<rate>
@@ -36290,8 +36156,8 @@
 							<label2>Forest</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-431">
-						<masterclipid>masterclip-146</masterclipid>
+					<clipitem id="clipitem-211">
+						<masterclipid>masterclip-70</masterclipid>
 						<name>007_07_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7568</duration>
@@ -36306,7 +36172,7 @@
 						<pproTicksIn>38564285760000</pproTicksIn>
 						<pproTicksOut>43194118968000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-146"/>
+						<file id="file-70"/>
 						<logginginfo>
 							<description>MS Hood Mount - Outside</description>
 							<scene></scene>
@@ -36327,8 +36193,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-432">
-						<masterclipid>masterclip-150</masterclipid>
+					<clipitem id="clipitem-212">
+						<masterclipid>masterclip-74</masterclipid>
 						<name>007A_03PU_A</name>
 						<enabled>TRUE</enabled>
 						<duration>4092</duration>
@@ -36345,7 +36211,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-150">
+						<file id="file-74">
 							<name>A007C006_1901082Y.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_002/TLJ_7/A007C6G0/Clip/A007C006_1901082Y/A007C006_1901082Y.mov</pathurl>
 							<rate>
@@ -36759,8 +36625,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-433">
-						<masterclipid>masterclip-146</masterclipid>
+					<clipitem id="clipitem-213">
+						<masterclipid>masterclip-70</masterclipid>
 						<name>007_07_A</name>
 						<enabled>TRUE</enabled>
 						<duration>7568</duration>
@@ -36775,7 +36641,7 @@
 						<pproTicksIn>57295510272000</pproTicksIn>
 						<pproTicksOut>70824794040000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-146"/>
+						<file id="file-70"/>
 						<logginginfo>
 							<description>MS Hood Mount - Outside</description>
 							<scene></scene>
@@ -36796,8 +36662,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-434">
-						<masterclipid>masterclip-151</masterclipid>
+					<clipitem id="clipitem-214">
+						<masterclipid>masterclip-75</masterclipid>
 						<name>009_05_A</name>
 						<enabled>TRUE</enabled>
 						<duration>564</duration>
@@ -36814,7 +36680,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-151">
+						<file id="file-75">
 							<name>A010C005_1901095N.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_003/TLJ_10/A010CE7E/Clip/A010C005_1901095N/A010C005_1901095N.mov</pathurl>
 							<rate>
@@ -37238,8 +37104,8 @@
 							<label2>Iris</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-435">
-						<masterclipid>masterclip-152</masterclipid>
+					<clipitem id="clipitem-215">
+						<masterclipid>masterclip-76</masterclipid>
 						<name>MNT_001_01_A</name>
 						<enabled>TRUE</enabled>
 						<duration>8332</duration>
@@ -37256,7 +37122,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-152">
+						<file id="file-76">
 							<name>A010C026_190109IN.mov</name>
 							<pathurl>file://localhost/Volumes/TLJ_MEDIA/DAILIES/DAY_003/TLJ_10/A010CE7E/Clip/A010C026_190109IN/A010C026_190109IN.mov</pathurl>
 							<rate>

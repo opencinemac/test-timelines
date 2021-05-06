@@ -7,7 +7,7 @@ import re
 import sys
 import xml.etree.ElementTree as et
 
-from typing import Dict, List
+from typing import Dict, List, NamedTuple
 
 
 @dataclasses.dataclass
@@ -194,8 +194,13 @@ def write_out(xml_path: pathlib.Path, info: SequenceInfo) -> None:
 def collect_event_info(
     edl_events: List[re.Match],
     xml_events: List[et.Element],
+    start_frame: int,
 ) -> List[EventInfo]:
-    event_bases: Dict[str, TimebaseInfo] = dict()
+    class FileInfo(NamedTuple):
+        base: TimebaseInfo
+        start_frame: int
+
+    event_bases: Dict[str, FileInfo] = dict()
     events: List[EventInfo] = list()
 
     for edl_event, xml_event in zip(edl_events, xml_events):
@@ -205,38 +210,50 @@ def collect_event_info(
         file_id = file_elm.attrib["id"]
 
         try:
-            base_info = event_bases[file_id]
+            file_info = event_bases[file_id]
         except KeyError:
             base_elm = xml_event.find("./file/timecode")
             assert base_elm is not None
             base_info = TimebaseInfo.from_element(base_elm)
-            event_bases[file_id] = base_info
+            file_start_frame = _find_int(base_elm, "./frame")
 
-        duration = _find_int(xml_event, "duration")
+            file_info = FileInfo(base=base_info, start_frame=file_start_frame)
+            event_bases[file_id] = file_info
 
-        source_in_frames = _find_int(xml_event, "in")
-        source_out_frames = _find_int(xml_event, "out")
-        record_in_frames = _find_int(xml_event, "start")
-        record_out_frames = _find_int(xml_event, "end")
+        source_in_frames = _find_int(xml_event, "in") + file_info.start_frame
+        source_out_frames = _find_int(xml_event, "out") + file_info.start_frame
+        record_in_frames = _find_int(xml_event, "start") + start_frame
+        record_out_frames = _find_int(xml_event, "end") + start_frame
 
         source_in_tc = edl_event.group("source_in")
         source_out_tc = edl_event.group("source_out")
         record_in_tc = edl_event.group("record_in")
         record_out_tc = edl_event.group("record_out")
 
+        duration = record_out_frames - record_in_frames
+        assert duration == source_out_frames - source_in_frames
+
         event_info = EventInfo(
             duration_frames=duration,
-            source_in=TimecodeInfo.from_info(source_in_tc, source_in_frames, base_info),
+            source_in=TimecodeInfo.from_info(
+                source_in_tc,
+                source_in_frames,
+                file_info.base,
+            ),
             source_out=TimecodeInfo.from_info(
                 source_out_tc,
                 source_out_frames,
-                base_info,
+                file_info.base,
             ),
-            record_in=TimecodeInfo.from_info(record_in_tc, record_in_frames, base_info),
+            record_in=TimecodeInfo.from_info(
+                record_in_tc,
+                record_in_frames,
+                file_info.base,
+            ),
             record_out=TimecodeInfo.from_info(
                 record_out_tc,
                 record_out_frames,
-                base_info,
+                file_info.base,
             ),
         )
 
@@ -265,7 +282,7 @@ def main() -> None:
 
     print("EVENTS FOUND:", len(edl_events))
 
-    events = collect_event_info(edl_events, xml_events)
+    events = collect_event_info(edl_events, xml_events, info.start_time.frame)
     assert len(events) == len(edl_events)
 
     info.events = events
