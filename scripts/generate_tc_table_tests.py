@@ -214,6 +214,7 @@ class TimecodeInfo:
 @dataclasses.dataclass
 class EventInfo:
     """EventInfo holds the data for a timeline event."""
+
     # duration_frames is the number of frames this event covers.
     duration_frames: int
     # source_in holds the timecode info for the source media at the in-point of the
@@ -236,6 +237,7 @@ class SequenceInfo:
     SequenceInfo contains information about a sequence of timecode events from an NLE
     timeline.
     """
+
     # start_time holds timecode information about the sequence start time.
     start_time: TimecodeInfo
     # total_duration_frames holds the total duration of the sequence in frame count.
@@ -306,6 +308,7 @@ def collect_event_info(
     <clipitem/> elements in order to have a more complete set of timecode
     representations generated from an outside program.
     """
+
     class FileInfo(NamedTuple):
         base: TimebaseInfo
         start_frame: int
